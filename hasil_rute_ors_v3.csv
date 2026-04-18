@@ -1,0 +1,574 @@
+desa_rawan,lat_rawan,lon_rawan,shelter,lat_shelter,lon_shelter,jarak_km_matrix,jarak_km,waktu_menit,jalur_ke,status
+Desa Ujungmanik,-7.64409,108.951428,Balai Desa Ujungmanik,-7.644039491,108.9514281,0.0,,,,gagal_ors
+Desa Karangkandri,-7.669839,109.0852,Balai Desa Karangkandri,-7.669975,109.084671,0.0,,,,gagal_ors
+Desa Klumprit,-7.661907,109.35874,Balai Desa Klumprit,-7.661985721,109.3585673,0.01,0.009,0.01,1.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan Barat,-7.30311,108.573078,0.02,0.018,0.07,1.0,ok_ors
+Desa Bulupayung,-7.57995,108.785915,Balai Desa Bulupayung,-7.579981845761614,108.7853295508966,0.02,0.021,0.08,1.0,ok_ors
+Desa Tinggarjaya,-7.480452,108.766832,Balai Desa Tinggarjaya,-7.480595869,108.7669981,0.02,0.016,0.07,1.0,ok_ors
+Desa Bojong,-7.608174,108.926794,Balai Desa Bojong,-7.608163551,108.9271265,0.02,0.022,0.02,1.0,ok_ors
+Desa Padangjaya,-7.312664,108.785827,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,0.02,0.021,0.03,1.0,ok_ors
+Desa Wlahar,-7.667687,109.13421,Balai Desa Wlahar,-7.667846,109.133921,0.03,0.029,0.12,1.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Bulaksari,-7.523812975,108.8887375,0.03,0.028,0.03,1.0,ok_ors
+Desa Cimrutu,-7.619538,108.802522,Balai Desa Cimrutu,-7.619308542,108.8027201,0.03,0.033,0.07,1.0,ok_ors
+Desa Bingkeng,-7.236414,108.592881,Balai Desa Bingkeng,-7.2371112160104465,108.59272960668014,0.03,0.028,0.03,1.0,ok_ors
+Desa Grugu,-7.645244,108.912399,Balai Desa Grugu,-7.645197858,108.9126578,0.03,0.028,0.11,1.0,ok_ors
+Desa Cilopadang,-7.303708,108.790659,Balai Desa Cilopadang,-7.304095476590585,108.7902956932206,0.04,0.036,0.12,1.0,ok_ors
+Desa Kesugihan Kidul,-7.62259,109.121113,Balai Desa Kesugihan Kidul,-7.622897,109.120648,0.04,0.043,0.05,1.0,ok_ors
+Desa Purwodadi,-7.600747,108.762061,Balai Desa Purwodadi,-7.600792841,108.7623893,0.04,0.04,0.16,1.0,ok_ors
+Desa Sidasari,-7.384348,108.78069,Balai Desa Sidasari,-7.384284459,108.7801567,0.04,0.043,0.09,1.0,ok_ors
+Desa Tegalsari,-7.485648,108.774499,Balai Desa Tegalsari,-7.485581773,108.7744421,0.05,0.049,0.19,1.0,ok_ors
+Desa Cibalung,-7.320885,108.879411,Balai Desa Cibalung,-7.320312734352611,108.8786737778771,0.05,0.049,0.1,1.0,ok_ors
+Desa Panisihan,-7.585351,109.158374,Balai Desa Penisihan,-7.585280064,109.1576929,0.05,0.053,0.04,1.0,ok_ors
+Desa Mujur Lor,-7.599874,109.248844,Balai Desa Mujur Lor,-7.599457594,109.2480218,0.05,0.052,0.1,1.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Gunungreja,-7.479329968,108.7856679,0.05,0.054,0.21,1.0,ok_ors
+Desa Ciklapa,-7.506692,108.810952,Balai Desa Ciklapa,-7.506522388,108.8105504,0.05,0.048,0.1,1.0,ok_ors
+Desa Mandala,-7.357041,108.888654,Balai Desa Mandala,-7.356992217695421,108.88791346224504,0.05,0.051,0.06,1.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Jangrana,-7.639157,109.063973,0.05,0.048,0.19,1.0,ok_ors
+Desa Gentasari,-7.601644,109.219899,Balai Desa Gentasari,-7.601690492,109.2195852,0.07,0.067,0.1,1.0,ok_ors
+Desa Kedungbenda,-7.66758,109.375326,Balai Desa Kedungbenda,-7.667346462,109.3745851,0.07,0.075,0.3,1.0,ok_ors
+Desa Karangbenda,-7.672613,109.176723,Balai Desa Karangbenda,-7.672624198676923,109.17602077782053,0.07,0.071,0.07,1.0,ok_ors
+Desa Dondong,-7.618474,109.067465,Balai Desa Dondong,-7.61863,109.066613,0.08,0.081,0.32,1.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,Kelurahan Donan,-7.713436943,109.0009423,0.08,0.084,0.34,1.0,ok_ors
+Desa Karangreja,-7.624115,109.147071,Balai Desa Karangreja,-7.624295,109.146347,0.08,0.078,0.23,1.0,ok_ors
+Desa Bulupayung,-7.596621,109.140066,Balai Desa Bulupayung,-7.596610409,109.1397925,0.08,0.078,0.23,1.0,ok_ors
+Desa Pesanggrahan,-7.594099,109.115168,Balai Desa Pesanggrahan,-7.594238,109.114316,0.09,0.094,0.11,1.0,ok_ors
+Desa Nusajati,-7.596982,109.200002,Balai Desa Nusajati,-7.597090701,109.1991133,0.09,0.094,0.34,1.0,ok_ors
+Desa Banjareja,-7.686408,109.374383,Balai Desa Banjareja,-7.686421459,109.3734922,0.1,0.096,0.19,1.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Sampang,-7.56620612,109.2003484,0.1,0.1,0.4,1.0,ok_ors
+Kelurahan Tegalkamulyan,-7.721294,109.023384,Kelurahan Tegalkamulyan,-7.721081813,109.0226969,0.11,0.107,0.43,1.0,ok_ors
+Desa Kalijeruk,-7.579115,108.936851,Balai Desa Kalijeruk,-7.578984,108.936294,0.11,0.107,0.14,1.0,ok_ors
+Desa Mentasan,-7.58261,108.958872,Balai Desa Mentasan,-7.582681,108.957987,0.11,0.11,0.11,1.0,ok_ors
+Desa Sindangsari,-7.300775,108.767969,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,0.11,0.115,0.46,1.0,ok_ors
+Desa Cilibang,-7.578392,109.019556,Balai Desa Cilibang,-7.578631,109.018484,0.12,0.117,0.08,1.0,ok_ors
+Desa Bantarpanjang,-7.360889,108.856803,Balai Desa Bantarpanjang,-7.359637040358087,108.85627253527534,0.12,0.118,0.08,1.0,ok_ors
+Desa Cilempuyang,-7.342686,108.834565,Balai Desa Cilempuyang,-7.342702844266789,108.83395417973034,0.13,0.134,0.49,1.0,ok_ors
+Desa Panimbang,-7.366119,108.868323,Balai Desa Panimbang,-7.367549798741719,108.86583925009202,0.13,0.125,0.5,1.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Penggalang,-7.653467,109.137016,0.13,0.134,0.44,1.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Babakan,-7.662701,108.932634,0.15,0.148,0.59,1.0,ok_ors
+Desa Mekarsari,-7.400061,108.745623,Balai Desa Mekarsari,-7.400022668,108.7449833,0.15,0.154,0.31,1.0,ok_ors
+Desa Nusawungu,-7.648797,109.345277,Balai Desa Nusawungu,-7.64816393,109.3441551,0.15,0.147,0.32,1.0,ok_ors
+Desa Kuripan Kidul,-7.65873,109.081864,Balai Desa Kuripan Kidul,-7.6589,109.080926,0.15,0.151,0.53,1.0,ok_ors
+Desa Brebeg,-7.626715,109.001461,Balai Desa Brebeg,-7.626279898675562,109.00042486088437,0.15,0.148,0.59,1.0,ok_ors
+Desa Slarang,-7.659267,109.113899,Balai Desa Slarang,-7.659593,109.113482,0.15,0.146,0.39,1.0,ok_ors
+Desa Slarang,-7.659267,109.113899,Balai Desa Slarang,-7.659593,109.113482,0.15,0.243,0.49,2.0,ok_ors
+Desa Nusawengkal,-7.669805,109.34463,Balai Desa Nusawangkal,-7.669997397,109.3432928,0.15,0.153,0.54,1.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Paberasan,-7.588606145,109.2306704,0.16,0.162,0.29,1.0,ok_ors
+Kelurahan Cilacap,-7.738098,109.014295,Kelurahan Cilacap,-7.737956464,109.0136191,0.16,0.163,0.36,1.0,ok_ors
+Desa Sikampuh,-7.623398,109.197936,Balai Desa Sikampuh,-7.623278803,109.1969554,0.16,0.159,0.4,1.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Sidamukti,-7.609405948,108.7556989,0.16,0.163,0.46,1.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Sidamukti,-7.609405948,108.7556989,0.16,0.263,0.62,2.0,ok_ors
+Desa Ciwuni,-7.604209,109.083059,Balai Desa Ciwuni,-7.604368,109.082218,0.16,0.161,0.65,1.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Madura,-7.330648739856452,108.6440463888098,0.19,0.195,0.57,1.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Madura,-7.330648739856452,108.6440463888098,0.19,0.278,0.61,2.0,ok_ors
+Desa Bulupayung,-7.596621,109.140066,Balai Desa Bulupayung,-7.596761,109.138803,0.19,0.185,0.45,1.0,ok_ors
+Desa Mujur,-7.612107,109.253601,Balai Desa Mujur,-7.612273016,109.2523055,0.19,0.192,0.41,1.0,ok_ors
+Desa Adipala,-7.659838,109.156697,Balai Desa Adipala,-7.660199,109.155491,0.2,0.203,0.43,1.0,ok_ors
+Desa Keleng,-7.59519,109.111505,Balai Desa Keleng,-7.595349,109.11045,0.2,0.196,0.4,1.0,ok_ors
+Kelurahan Sidanegara,-7.711614,109.019484,Kelurahan Sidanegara,-7.711789036,109.0185056,0.22,0.215,0.86,1.0,ok_ors
+Desa Karangjengkol,-7.602037,109.091578,Balai Desa Karangjengkol,-7.602219,109.090462,0.22,0.219,0.51,1.0,ok_ors
+Kelurahan Tambakreja,-7.728396,109.004494,SMA Al-Irsyad Cilacap,-7.7273491,109.0044836,0.22,0.221,0.55,1.0,ok_ors
+Kelurahan Kutawaru,-7.697561,108.990425,Kelurahan Kutawaru,-7.695870966,108.9896321,0.23,0.226,0.91,1.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Kalisabuk,-7.658169,109.098666,0.24,0.24,1.03,1.0,ok_ors
+Desa Adireja Kulon,-7.660938,109.16014,Balai Desa Adireja Kulon,-7.66096,109.159231,0.24,0.238,0.85,1.0,ok_ors
+Desa Pahonjean,-7.324304,108.740084,Balai Desa Pahonjean,-7.324605442665611,108.73858679137896,0.26,0.258,0.83,1.0,ok_ors
+Desa Ujunggagak,-7.665938,108.818228,Balai Desa Ujunggagak,-7.666216,108.819289,0.28,0.28,1.12,1.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Patimuan,-7.583574535,108.7608936,0.29,0.289,0.73,1.0,ok_ors
+Desa Sudagaran,-7.491794,108.808189,Balai Desa Sudagaran,-7.4901238,108.8095576,0.31,0.312,1.25,1.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Adimulya,-7.332960915849882,108.68843248947638,0.35,0.35,1.05,1.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Adimulya,-7.332960915849882,108.68843248947638,0.35,0.287,1.15,2.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Adimulya,-7.332960915849882,108.68843248947638,0.35,0.63,1.43,3.0,ok_ors
+Desa Keleng,-7.59519,109.111505,Balai Desa Pesanggrahan,-7.594238,109.114316,0.36,0.356,0.55,1.0,ok_ors
+Desa Adipala,-7.659838,109.156697,Balai Desa Adireja Kulon,-7.66096,109.159231,0.37,0.375,0.59,1.0,ok_ors
+Kelurahan Tambakreja,-7.728396,109.004494,SMP Negeri 3 Cilacap,-7.728074,109.001426,0.39,0.393,0.68,1.0,ok_ors
+Kelurahan Tambakreja,-7.728396,109.004494,SD Al-Irsyad 01,-7.727568,109.006065,0.39,0.395,0.7,1.0,ok_ors
+Desa Adimulya,-7.334996,108.689403,Balai Desa Adimulya,-7.332960915849882,108.68843248947638,0.4,0.399,0.58,1.0,ok_ors
+Kelurahan Sidanegara,-7.711614,109.019484,Asrama Putri Stikes Al-Irsyad,-7.711226,109.020901,0.4,0.403,1.61,1.0,ok_ors
+Desa Panikel,-7.631573,108.856721,Balai Desa Panikel,-7.632277,108.855158,0.42,0.42,0.84,1.0,ok_ors
+Desa Purwasari,-7.384291,108.870808,Balai Desa Ciporos,-7.381721517,108.8713846,0.43,0.425,0.72,1.0,ok_ors
+Kelurahan Sidanegara,-7.711614,109.019484,SMP Negeri 4 Cilacap,-7.713808,109.0220023,0.46,0.46,1.84,1.0,ok_ors
+Desa Kawunganten,-7.591934,108.92207,Balai Desa Kawunganten,-7.592701,108.91958,0.47,0.466,1.09,1.0,ok_ors
+Desa Kawunganten,-7.591934,108.92207,Balai Desa Kawunganten,-7.592701,108.91958,0.47,0.839,1.42,2.0,ok_ors
+Desa Adiraja,-7.661459,109.164716,Balai Desa Adireja Wetan,-7.663377,109.1669,0.47,0.471,0.93,1.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Mulyasari,-7.316016450227107,108.7710207218418,0.51,0.513,1.32,1.0,ok_ors
+Desa Sidamulya,-7.48897,108.804965,Balai Desa Sudagaran,-7.4901238,108.8095576,0.53,0.526,2.1,1.0,ok_ors
+Desa Sidamulya,-7.488885,108.804955,Balai Desa Sudagaran,-7.4901238,108.8095576,0.53,0.53,2.12,1.0,ok_ors
+Desa Pesanggrahan,-7.594099,109.115168,Balai Desa Keleng,-7.595349,109.11045,0.56,0.558,0.71,1.0,ok_ors
+Desa Cilongkrang,-7.408769,108.715668,Balai Desa Cilongkrang,-7.407004438152763,108.71434982998896,0.56,0.562,1.36,1.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SMA Negeri 1 Cilacap,-7.713985,109.005431,0.58,0.583,2.33,1.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SMA Negeri 1 Cilacap,-7.713985,109.005431,0.58,1.33,2.99,2.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SMA Negeri 1 Cilacap,-7.713985,109.005431,0.58,1.29,3.23,3.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Wetan,-7.663377,109.1669,0.61,0.614,1.39,1.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Wetan,-7.663377,109.1669,0.61,0.503,1.48,2.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Wetan,-7.663377,109.1669,0.61,0.986,1.91,3.0,ok_ors
+Desa Purwasari,-7.384291,108.870808,Balai Desa Pengawaren,-7.38750728,108.8685968,0.63,0.634,1.05,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sidareja,-7.482720383,108.7920794,0.65,0.649,2.6,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sidareja,-7.482720383,108.7920794,0.65,0.651,2.6,2.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sidareja,-7.482720383,108.7920794,0.65,0.822,3.29,3.0,ok_ors
+Desa Adireja Kulon,-7.660938,109.16014,Balai Desa Adipala,-7.660199,109.155491,0.66,0.659,1.24,1.0,ok_ors
+Desa Slarang,-7.659267,109.113899,Balai Desa Gombolharjo,-7.663956,109.112655,0.66,0.658,1.3,1.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Binangun,-7.543083188,108.918559,0.67,0.665,1.98,1.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Binangun,-7.543083188,108.918559,0.67,0.57,2.1,2.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Binangun,-7.543083188,108.918559,0.67,0.586,2.17,3.0,ok_ors
+Desa Nusajati,-7.596982,109.200002,Balai Desa Ketanggung,-7.602318578,109.1984939,0.68,0.679,1.12,1.0,ok_ors
+Desa Purwodadi,-7.676727,109.348618,Balai Desa Purwadadi,-7.676746425,109.3430598,0.69,0.688,1.38,1.0,ok_ors
+Desa Adiraja,-7.661459,109.164716,Balai Desa Adireja Kulon,-7.66096,109.159231,0.73,0.735,1.09,1.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SD Negeri Tegalreja 01,-7.714913,109.005655,0.74,0.741,2.16,1.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SD Negeri Tegalreja 01,-7.714913,109.005655,0.74,0.739,2.54,2.0,ok_ors
+Kelurahan Donan,-7.714149,109.001532,SD Negeri Tegalreja 01,-7.714913,109.005655,0.74,1.015,2.92,3.0,ok_ors
+Kelurahan Tegalkamulyan,-7.721294,109.023384,Politeknik Negeri Cilacap,-7.717469,109.019929,0.75,0.754,2.38,1.0,ok_ors
+Kelurahan Tegalkamulyan,-7.721294,109.023384,Politeknik Negeri Cilacap,-7.717469,109.019929,0.75,1.154,2.87,2.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,Kelurahan Gunungsimping,-7.707182957,109.0315633,0.76,0.757,1.75,1.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,Kelurahan Gunungsimping,-7.707182957,109.0315633,0.76,0.899,2.09,2.0,ok_ors
+Desa Adiraja,-7.661459,109.164716,Balai Desa Adiraja,-7.666087841147282,109.16819716425138,0.79,0.793,1.14,1.0,ok_ors
+Desa Bumireja,-7.536534,108.806366,Balai Desa Bumireja,-7.5377704,108.7994195,0.79,0.789,0.95,1.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,SMA Sri Mukti Cilacap,-7.7083942,109.0220419,0.79,0.792,3.04,1.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,SMA Sri Mukti Cilacap,-7.7083942,109.0220419,0.79,1.188,3.29,2.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,SMA Sri Mukti Cilacap,-7.7083942,109.0220419,0.79,1.28,3.66,3.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Rejodadi,-7.321355585393663,108.79762552292264,0.81,0.815,2.44,1.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Rejodadi,-7.321355585393663,108.79762552292264,0.81,0.722,2.89,2.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Rejodadi,-7.321355585393663,108.79762552292264,0.81,0.813,3.25,3.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Gandrungmanis,-7.525009839,108.855699,0.81,0.811,1.22,1.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Gandrungmanis,-7.525009839,108.855699,0.81,0.372,1.23,2.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Gandrungmanis,-7.525009839,108.855699,0.81,0.486,1.32,3.0,ok_ors
+Desa Karangreja,-7.353303,108.797002,Balai Desa Karangreja,-7.355527244545825,108.80268215086484,0.88,0.882,1.76,1.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Kulon,-7.66096,109.159231,0.88,0.878,1.54,1.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Kulon,-7.66096,109.159231,0.88,0.879,1.72,2.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adireja Kulon,-7.66096,109.159231,0.88,0.86,2.04,3.0,ok_ors
+Desa Pengaweran,-7.382458,108.877978,Balai Desa Ciporos,-7.381721517,108.8713846,0.92,0.922,1.29,1.0,ok_ors
+Desa Cilempuyang,-7.342686,108.834565,Balai Desa Cimanggu,-7.347615384867863,108.83824067084493,0.92,0.924,1.93,1.0,ok_ors
+Desa Karangreja,-7.624115,109.147071,Balai Desa Klapagada,-7.621023,109.151331,0.93,0.935,1.65,1.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adiraja,-7.666087841147282,109.16819716425138,0.94,0.936,1.6,1.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adiraja,-7.666087841147282,109.16819716425138,0.94,0.881,1.92,2.0,ok_ors
+Desa Adireja Wetan,-7.660906,109.165317,Balai Desa Adiraja,-7.666087841147282,109.16819716425138,0.94,1.308,2.12,3.0,ok_ors
+Kelurahan Gunungsimping,-7.707111,109.027039,SMP Negeri 4 Cilacap,-7.713808,109.0220023,0.98,0.982,1.74,1.0,ok_ors
+Desa Nusawengkal,-7.669805,109.34463,Balai Desa Purwadadi,-7.676746425,109.3430598,0.99,0.992,2.22,1.0,ok_ors
+Kelurahan Tegalkamulyan,-7.721294,109.023384,Rusunawa,-7.726168476356958,109.02217430815188,1.0,0.999,1.34,1.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Sidareja,-7.482720383,108.7920794,1.01,1.006,3.44,1.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Sidareja,-7.482720383,108.7920794,1.01,0.982,3.93,2.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Sidareja,-7.482720383,108.7920794,1.01,1.046,4.47,3.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Kamulyan,-7.526990212,108.8634969,1.01,1.01,3.38,1.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Kamulyan,-7.526990212,108.8634969,1.01,0.935,3.74,2.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Kamulyan,-7.526990212,108.8634969,1.01,1.015,3.78,3.0,ok_ors
+Desa Tambakreja,-7.538916,108.782982,kelurahan Tambakreja,-7.538736939,108.7836077,1.02,1.024,2.89,1.0,ok_ors
+Desa Cimanggu,-7.350939,108.839493,Balai Desa Cimanggu,-7.347615384867863,108.83824067084493,1.03,1.031,2.24,1.0,ok_ors
+Desa Tambakreja,-7.538916,108.782982,Balai Desa Tambakreja,-7.538784807,108.7835379,1.03,1.03,2.91,1.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Kamulyan,-7.526990212,108.8634969,1.05,1.052,2.37,1.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Kamulyan,-7.526990212,108.8634969,1.05,0.805,2.77,2.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Kamulyan,-7.526990212,108.8634969,1.05,0.978,2.74,3.0,ok_ors
+Desa Pesanggrahan,-7.594099,109.115168,Balai Desa Pucung Lor,-7.586622826,109.1134249,1.08,1.075,2.69,1.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Wanareja,-7.32853370869163,108.68339457787062,1.09,1.087,1.98,1.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Wanareja,-7.32853370869163,108.68339457787062,1.09,1.086,2.57,2.0,ok_ors
+Kelurahan Cilacap,-7.738098,109.014295,Balai Desa Kaliwungu,-7.735575683,109.0175999,1.11,1.108,1.82,1.0,ok_ors
+Kelurahan Cilacap,-7.738098,109.014295,Balai Desa Kaliwungu,-7.735575683,109.0175999,1.11,1.407,2.31,2.0,ok_ors
+Desa Karangsembung,-7.679916,109.363203,Balai Desa Karangsembung,-7.678502548,109.3554419,1.11,1.115,2.67,1.0,ok_ors
+Desa Adireja Kulon,-7.660938,109.16014,Balai Desa Adireja Wetan,-7.663377,109.1669,1.11,1.111,1.74,1.0,ok_ors
+Desa Adireja Kulon,-7.660938,109.16014,Balai Desa Adireja Wetan,-7.663377,109.1669,1.11,0.939,1.8,2.0,ok_ors
+Desa Adireja Kulon,-7.660938,109.16014,Balai Desa Adireja Wetan,-7.663377,109.1669,1.11,0.935,2.22,3.0,ok_ors
+Desa Kawunganten,-7.591934,108.92207,Balai Desa Kawunganten Lor,-7.58543,108.919056,1.12,1.116,1.72,1.0,ok_ors
+Desa Kawunganten,-7.591934,108.92207,Balai Desa Kawunganten Lor,-7.58543,108.919056,1.12,1.023,1.73,2.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Segaralangu,-7.442669141,108.7829382,1.12,1.121,1.97,1.0,ok_ors
+Desa Karangrena,-7.606723,109.133039,Balai Desa Karangrena,-7.607614387,109.1286205,1.16,1.156,2.31,1.0,ok_ors
+Desa Padangjaya,-7.312664,108.785827,Balai Desa Cilopadang,-7.304095476590585,108.7902956932206,1.18,1.176,1.56,1.0,ok_ors
+Desa Mekarsari,-7.400061,108.745623,Balai Desa Cisuru,-7.398928326,108.7365499,1.18,1.179,2.51,1.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan,-7.307873,108.580217,1.18,1.184,3.67,1.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan,-7.307873,108.580217,1.18,1.955,4.69,2.0,ok_ors
+Desa Purwodadi,-7.676727,109.348618,Balai Desa Karangsembung,-7.678502548,109.3554419,1.19,1.192,2.38,1.0,ok_ors
+Desa Purwodadi,-7.676727,109.348618,Balai Desa Karangsembung,-7.678502548,109.3554419,1.19,1.352,2.7,2.0,ok_ors
+Desa Purwodadi,-7.676727,109.348618,Balai Desa Karangsembung,-7.678502548,109.3554419,1.19,1.426,2.85,3.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Cisumur,-7.532618723,108.8210025,1.2,1.197,4.79,1.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Cisumur,-7.532618723,108.8210025,1.2,2.198,5.65,2.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Cisumur,-7.532618723,108.8210025,1.2,2.203,5.67,3.0,ok_ors
+Desa Bantarmangu,-7.332414,108.894194,Balai Desa Babakan,-7.342641751,108.8939473,1.21,,,,gagal_ors
+Desa Cilopadang,-7.303708,108.790659,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,1.22,1.218,1.7,1.0,ok_ors
+Kelurahan Cilacap,-7.738098,109.014295,SMP N 1 Cilacap,-7.7385152,109.0090731,1.23,1.231,1.97,1.0,ok_ors
+Desa Bener,-7.269907,108.759242,Balai Desa Bener,-7.261083250655202,108.7534014098299,1.26,1.257,1.51,1.0,ok_ors
+Desa Panisihan,-7.585351,109.158374,Balai Desa Glempang,-7.577773384,109.1672232,1.29,1.287,0.91,1.0,ok_ors
+Desa Cimanggu,-7.350939,108.839493,Balai Desa Cilempuyang,-7.342702844266789,108.83395417973034,1.29,1.289,1.55,1.0,ok_ors
+Desa Kuripan Kidul,-7.65873,109.081864,Balai Desa Kuripan,-7.651916,109.083396,1.29,1.289,3.02,1.0,ok_ors
+Desa Kuripan Kidul,-7.65873,109.081864,Balai Desa Kuripan,-7.651916,109.083396,1.29,1.535,3.8,2.0,ok_ors
+Desa Bantarpanjang,-7.360889,108.856803,Balai Desa Panimbang,-7.367549798741719,108.86583925009202,1.29,1.291,0.99,1.0,ok_ors
+Desa Karangjengkol,-7.602037,109.091578,Balai Desa Ciwuni,-7.604368,109.082218,1.29,1.291,1.98,1.0,ok_ors
+Desa Tinggarjaya,-7.480452,108.766832,Balai Desa Tegalsari,-7.485581773,108.7744421,1.3,1.303,2.17,1.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Karangasem,-7.569695039,109.208944,1.31,1.309,4.31,1.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Karangasem,-7.569695039,109.208944,1.31,2.073,4.75,2.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Karangasem,-7.569695039,109.208944,1.31,1.772,4.83,3.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Sidasari,-7.576864044,109.201582,1.31,1.311,1.95,1.0,ok_ors
+Desa Sampang,-7.566318,109.201228,Balai Desa Sidasari,-7.576864044,109.201582,1.31,1.329,2.7,2.0,ok_ors
+Desa Adipala,-7.659838,109.156697,Balai Desa Adireja Wetan,-7.663377,109.1669,1.31,1.313,1.54,1.0,ok_ors
+Desa Tegalsari,-7.485648,108.774499,Balai Desa Tinggarjaya,-7.480595869,108.7669981,1.33,1.327,2.27,1.0,ok_ors
+Desa Ciwuni,-7.604209,109.083059,Balai Desa Karangjengkol,-7.602219,109.090462,1.33,1.334,2.52,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Gunungreja,-7.479329968,108.7856679,1.34,1.343,5.15,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Gunungreja,-7.479329968,108.7856679,1.34,1.45,5.8,2.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Gunungreja,-7.479329968,108.7856679,1.34,2.189,6.08,3.0,ok_ors
+Desa Adimulya,-7.334996,108.689403,Balai Desa Wanareja,-7.32853370869163,108.68339457787062,1.34,1.339,1.62,1.0,ok_ors
+Desa Klaces,-7.681075,108.848305,Balai Desa Klaces,-7.685966,108.827926,1.37,,,,gagal_ors
+Desa Sindangsari,-7.300775,108.767969,Balai Desa Jenang,-7.300138237864985,108.75817866114352,1.38,1.384,1.87,1.0,ok_ors
+Desa Sindangsari,-7.300775,108.767969,Balai Desa Jenang,-7.300138237864985,108.75817866114352,1.38,1.579,2.06,2.0,ok_ors
+Desa Sindangsari,-7.300775,108.767969,Balai Desa Jenang,-7.300138237864985,108.75817866114352,1.38,1.336,2.12,3.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Karangsari,-7.632979,109.135353,1.38,1.38,4.63,1.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Caruy,-7.375954694,108.8028629,1.42,1.419,4.61,1.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Caruy,-7.375954694,108.8028629,1.42,1.503,5.53,2.0,ok_ors
+Desa Kesugihan,-7.608235,109.119931,Balai Desa Karangrena,-7.607614387,109.1286205,1.46,1.462,4.79,1.0,ok_ors
+Desa Kesugihan,-7.608235,109.119931,Balai Desa Karangrena,-7.607614387,109.1286205,1.46,1.635,5.55,2.0,ok_ors
+Desa Kesugihan,-7.608235,109.119931,Balai Desa Karangrena,-7.607614387,109.1286205,1.46,1.939,6.51,3.0,ok_ors
+Desa Panisihan,-7.585351,109.158374,Balai Desa Maos Lor,-7.593684279,109.1481188,1.46,1.46,1.03,1.0,ok_ors
+Desa Pengaweran,-7.382458,108.877978,Balai Desa Pengawaren,-7.38750728,108.8685968,1.46,1.457,2.05,1.0,ok_ors
+Desa Keleng,-7.59519,109.111505,Balai Desa Pucung Lor,-7.586622826,109.1134249,1.5,1.498,3.32,1.0,ok_ors
+Desa Karangkandri,-7.669839,109.0852,Balai Desa Kuripan Kidul,-7.6589,109.080926,1.51,1.508,1.44,1.0,ok_ors
+Desa Cilibang,-7.578392,109.019556,Balai Desa Jambusari,-7.567455,109.026833,1.53,1.529,1.08,1.0,ok_ors
+Desa Panimbang,-7.366119,108.868323,Balai Desa Bantarpanjang,-7.359637040358087,108.85627253527534,1.53,1.534,1.57,1.0,ok_ors
+Desa Karangbenda,-7.672613,109.176723,Balai Desa Adiraja,-7.666087841147282,109.16819716425138,1.54,1.541,1.75,1.0,ok_ors
+Desa Wlahar,-7.667687,109.13421,Balai Desa Bunton,-7.671146035522224,109.14546175880828,1.58,1.584,6.33,1.0,ok_ors
+Desa Dondong,-7.618474,109.067465,Balai Desa Planjan,-7.623498,109.0785,1.61,1.611,4.33,1.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Gandrungmanis,-7.525009839,108.855699,1.61,1.608,3.23,1.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Gandrungmanis,-7.525009839,108.855699,1.61,1.956,4.16,2.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Gandrungmanis,-7.525009839,108.855699,1.61,1.774,4.38,3.0,ok_ors
+Desa Bringkeng,-7.635518,108.917016,Balai Desa Grugu,-7.645197858,108.9126578,1.64,1.637,3.42,1.0,ok_ors
+Desa Cisuru,-7.38692,108.701254,Balai Desa Tarisi,-7.39470838816254,108.70133486438638,1.64,1.644,1.95,1.0,ok_ors
+Desa Kuripan Kidul,-7.65873,109.081864,Balai Desa Karangkandri,-7.669975,109.084671,1.66,1.661,1.96,1.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Kalikudi,-7.63321,109.15434,1.66,1.662,4.13,1.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Kalikudi,-7.63321,109.15434,1.66,2.124,4.66,2.0,ok_ors
+Desa Mujur Lor,-7.599874,109.248844,Balai Desa Mujur,-7.612273016,109.2523055,1.67,1.666,2.39,1.0,ok_ors
+Desa Karangpucung,-7.41075,108.906193,Balai Desa Karangpucung,-7.413007611,108.9004168,1.68,1.677,3.62,1.0,ok_ors
+Desa Karangrena,-7.606723,109.133039,Balai Desa Maos Kidul,-7.607706169,109.1458109,1.71,1.714,3.35,1.0,ok_ors
+Desa Bantarpanjang,-7.360889,108.856803,Balai Desa Cidadap,-7.353239673849244,108.85647850238144,1.77,,,,gagal_ors
+Desa Tambaksari,-7.4401,108.881896,Balai Desa Sindangbarang,-7.431525182,108.8898178,1.79,1.795,2.93,1.0,ok_ors
+Desa Mujur,-7.612107,109.253601,Balai Desa Mujur Lor,-7.599457594,109.2480218,1.81,1.805,2.69,1.0,ok_ors
+Desa Kesugihan Kidul,-7.62259,109.121113,Balai Desa Kesugihan,-7.608925,109.116912,1.81,1.815,2.38,1.0,ok_ors
+Desa Mulyadadi,-7.317188,108.775789,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,1.84,1.842,4.39,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bantarsari,-7.539932226,108.8705564,1.86,1.859,5.67,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bantarsari,-7.539932226,108.8705564,1.86,2.765,7.69,2.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bantarsari,-7.539932226,108.8705564,1.86,2.779,7.74,3.0,ok_ors
+Desa Klumprit,-7.661907,109.35874,Balai Desa Kedungbenda,-7.667346462,109.3745851,1.88,1.882,2.06,1.0,ok_ors
+Desa Mulyadadi,-7.317188,108.775789,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,1.89,1.894,3.47,1.0,ok_ors
+Desa Karangpucung,-7.41075,108.906193,Balai Desa Tayemtimur,-7.413687359,108.9086003,1.91,1.905,3.55,1.0,ok_ors
+Desa Karangbenda,-7.672613,109.176723,Balai Desa Adireja Wetan,-7.663377,109.1669,1.92,1.919,2.18,1.0,ok_ors
+Desa Mandala,-7.357041,108.888654,Balai Desa Babakan,-7.342641751,108.8939473,1.92,1.925,2.31,1.0,ok_ors
+Desa Padangjaya,-7.312664,108.785827,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,1.93,1.928,3.3,1.0,ok_ors
+Desa Mekarsari,-7.400061,108.745623,Balai Desa Pegadingan,-7.406187976,108.7603955,1.94,1.945,4.07,1.0,ok_ors
+Desa Karangkandri,-7.669839,109.0852,Balai Desa Menganti,-7.669045,109.072558,1.97,1.974,1.5,1.0,ok_ors
+Desa Kedungbenda,-7.66758,109.375326,Balai Desa Klumprit,-7.661985721,109.3585673,1.97,1.966,2.37,1.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Jatisari,-7.516566535,108.8002007,1.98,1.981,5.86,1.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Jatisari,-7.516566535,108.8002007,1.98,3.435,7.02,2.0,ok_ors
+Desa Panimbang,-7.366119,108.868323,Balai Desa Ciporos,-7.381721517,108.8713846,1.99,1.993,2.05,1.0,ok_ors
+Desa Ciklapa,-7.506692,108.810952,Balai Desa Jatisari,-7.516566535,108.8002007,2.01,2.007,4.13,1.0,ok_ors
+Desa Ciklapa,-7.506692,108.810952,Balai Desa Jatisari,-7.516566535,108.8002007,2.01,1.863,5.01,2.0,ok_ors
+Desa Ciklapa,-7.506692,108.810952,Balai Desa Jatisari,-7.516566535,108.8002007,2.01,1.873,5.05,3.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Slarang,-7.659593,109.113482,2.03,2.032,3.17,1.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Slarang,-7.659593,109.113482,2.03,2.479,4.23,2.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Purwodadi,-7.600792841,108.7623893,2.04,2.042,5.55,1.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Purwodadi,-7.600792841,108.7623893,2.04,3.292,6.94,2.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Purwodadi,-7.600792841,108.7623893,2.04,3.349,7.12,3.0,ok_ors
+Desa Bumireja,-7.536534,108.806366,Balai Desa Cisumur,-7.532618723,108.8210025,2.06,2.058,2.13,1.0,ok_ors
+Desa Slarang,-7.659267,109.113899,Balai Desa Kalisabuk,-7.658169,109.098666,2.08,2.083,2.38,1.0,ok_ors
+Desa Nusawungu,-7.648797,109.345277,Balai Desa Klumprit,-7.661985721,109.3585673,2.1,2.099,2.3,1.0,ok_ors
+Desa Bojong,-7.608174,108.926794,Balai Desa Kawunganten,-7.592701,108.91958,2.11,2.111,2.78,1.0,ok_ors
+Desa Sidamulya,-7.488885,108.804955,Balai Desa Sidareja,-7.482720383,108.7920794,2.15,2.145,4.36,1.0,ok_ors
+Desa Mulyadadi,-7.317188,108.775789,Balai Desa Mulyasari,-7.316016450227107,108.7710207218418,2.19,2.187,4.18,1.0,ok_ors
+Desa Purwasari,-7.384291,108.870808,Balai Desa Panimbang,-7.367549798741719,108.86583925009202,2.2,2.2,1.9,1.0,ok_ors
+Desa Mujur,-7.612107,109.253601,Balai Desa Bajing,-7.627507087,109.2517692,2.2,2.201,3.44,1.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Sarwadadi,-7.558281,108.917277,2.21,2.205,3.59,1.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Sarwadadi,-7.558281,108.917277,2.21,2.11,3.71,2.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Sarwadadi,-7.558281,108.917277,2.21,2.11,4.18,3.0,ok_ors
+Desa Ciklapa,-7.506692,108.810952,Balai Desa Sudagaran,-7.4901238,108.8095576,2.23,2.234,6.86,1.0,ok_ors
+Desa Klumprit,-7.661907,109.35874,Balai Desa Nusawungu,-7.64816393,109.3441551,2.26,2.255,2.62,1.0,ok_ors
+Desa Kutasari,-7.392746,108.817824,Balai Desa Kutasari,-7.394689384,108.8031922,2.28,2.282,4.86,1.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Kedungreja,-7.504965751,108.7808289,2.29,2.291,4.86,1.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Penggalang,-7.653467,109.137016,2.32,2.316,6.79,1.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Penggalang,-7.653467,109.137016,2.32,5.267,8.33,2.0,ok_ors
+Desa Karang Sari,-7.637371,109.143197,Balai Desa Penggalang,-7.653467,109.137016,2.32,5.303,8.37,3.0,ok_ors
+Desa Sudagaran,-7.491794,108.808189,Balai Desa Ciklapa,-7.506522388,108.8105504,2.32,2.323,7.32,1.0,ok_ors
+Desa Sudagaran,-7.491794,108.808189,Balai Desa Ciklapa,-7.506522388,108.8105504,2.32,2.948,9.81,2.0,ok_ors
+Desa Kawunganten,-7.591934,108.92207,Balai Desa Kalijeruk,-7.578984,108.936294,2.33,2.325,2.99,1.0,ok_ors
+Desa Nusajati,-7.596982,109.200002,Balai Desa Sidasari,-7.576864044,109.201582,2.33,2.335,3.02,1.0,ok_ors
+Desa Kawunganten Lor,-7.584107,108.922413,Balai Desa Kawunganten Lor,-7.58543,108.919056,2.34,2.339,5.57,1.0,ok_ors
+Desa Bojong,-7.608174,108.926794,Balai Desa Kubangkangkung,-7.620968609,108.9430662,2.35,2.354,2.57,1.0,ok_ors
+Desa Ciwuni,-7.604209,109.083059,Balai Desa Planjan,-7.623498,109.0785,2.35,2.347,7.81,1.0,ok_ors
+Desa Ciwuni,-7.604209,109.083059,Balai Desa Planjan,-7.623498,109.0785,2.35,3.402,10.4,2.0,ok_ors
+Desa Nusawengkal,-7.669805,109.34463,Balai Desa Karangsembung,-7.678502548,109.3554419,2.35,2.349,5.0,1.0,ok_ors
+Desa Nusawengkal,-7.669805,109.34463,Balai Desa Karangsembung,-7.678502548,109.3554419,2.35,2.61,5.46,2.0,ok_ors
+Desa Nusawengkal,-7.669805,109.34463,Balai Desa Karangsembung,-7.678502548,109.3554419,2.35,2.66,5.63,3.0,ok_ors
+Desa Karangjengkol,-7.602037,109.091578,Balai Desa Keleng,-7.595349,109.11045,2.36,2.36,2.97,1.0,ok_ors
+Desa Karangsembung,-7.679916,109.363203,Balai Desa Purwadadi,-7.676746425,109.3430598,2.37,2.375,5.19,1.0,ok_ors
+Desa Karangsembung,-7.679916,109.363203,Balai Desa Purwadadi,-7.676746425,109.3430598,2.37,3.072,6.88,2.0,ok_ors
+Desa Tegalsari,-7.485648,108.774499,Balai Desa Sidareja,-7.482720383,108.7920794,2.37,2.371,4.01,1.0,ok_ors
+Desa Tegalsari,-7.485648,108.774499,Balai Desa Sidareja,-7.482720383,108.7920794,2.37,2.402,4.87,2.0,ok_ors
+Desa Tegalsari,-7.485648,108.774499,Balai Desa Sidareja,-7.482720383,108.7920794,2.37,2.403,5.18,3.0,ok_ors
+Desa Kesugihan,-7.608235,109.119931,Balai Desa Karangkemiri,-7.622875,109.130052,2.4,2.4,7.49,1.0,ok_ors
+Desa Kawunganten Lor,-7.584107,108.922413,Balai Desa Kalijeruk,-7.578984,108.936294,2.42,2.421,5.46,1.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Gombolharjo,-7.663956,109.112655,2.43,2.433,4.0,1.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Gombolharjo,-7.663956,109.112655,2.43,2.755,4.56,2.0,ok_ors
+Desa Kalisabuk,-7.658024,109.099508,Balai Desa Gombolharjo,-7.663956,109.112655,2.43,2.743,4.79,3.0,ok_ors
+Desa Sikampuh,-7.623398,109.197936,Balai Desa Ketanggung,-7.602318578,109.1984939,2.44,2.437,3.03,1.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Rawajaya,-7.562052055,108.8795462,2.44,2.436,5.81,1.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Rawajaya,-7.562052055,108.8795462,2.44,3.265,5.88,2.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Rawajaya,-7.562052055,108.8795462,2.44,2.329,6.0,3.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Adipala,-7.660199,109.155491,2.46,2.457,2.92,1.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Adipala,-7.660199,109.155491,2.46,2.333,3.92,2.0,ok_ors
+Desa Cibalung,-7.320885,108.879411,Balai Desa Cisalak,-7.307785089523783,108.8654459383816,2.47,2.467,5.25,1.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Serang,-7.461139083,108.7602117,2.48,2.484,7.04,1.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Serang,-7.461139083,108.7602117,2.48,2.361,7.64,2.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Serang,-7.461139083,108.7602117,2.48,2.354,7.62,3.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Purwodadi,-7.600792841,108.7623893,2.48,2.481,4.97,1.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Purwodadi,-7.600792841,108.7623893,2.48,1.601,5.79,2.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Purwodadi,-7.600792841,108.7623893,2.48,1.955,5.83,3.0,ok_ors
+Desa Karangsembung,-7.679916,109.363203,Balai Desa Klumprit,-7.661985721,109.3585673,2.52,2.521,5.02,1.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Cinyawang,-7.569886659,108.7697578,2.52,2.523,3.19,1.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Cinyawang,-7.569886659,108.7697578,2.52,3.502,4.08,2.0,ok_ors
+Desa Patimuan,-7.584914,108.76131,Balai Desa Cinyawang,-7.569886659,108.7697578,2.52,3.763,4.15,3.0,ok_ors
+Desa Nusawungu,-7.648797,109.345277,Balai Desa Nusawangkal,-7.669997397,109.3432928,2.52,2.517,5.11,1.0,ok_ors
+Desa Banjareja,-7.686408,109.374383,Balai Desa Kedungbenda,-7.667346462,109.3745851,2.54,2.545,3.08,1.0,ok_ors
+Desa Gentasari,-7.601644,109.219899,Balai Desa Nusajati,-7.597090701,109.1991133,2.54,2.537,4.98,1.0,ok_ors
+Desa Kalijeruk,-7.579115,108.936851,Balai Desa Mentasan,-7.582681,108.957987,2.55,2.546,2.84,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sudagaran,-7.4901238,108.8095576,2.56,2.565,6.65,1.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sudagaran,-7.4901238,108.8095576,2.56,2.729,7.57,2.0,ok_ors
+Desa Sidareja,-7.480474,108.795257,Balai Desa Sudagaran,-7.4901238,108.8095576,2.56,2.404,8.22,3.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Muktisari,-7.505329682,108.8572533,2.58,2.584,5.23,1.0,ok_ors
+Desa Gandrungmangu,-7.519169,108.863969,Balai Desa Muktisari,-7.505329682,108.8572533,2.58,4.476,7.11,2.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Wlahar,-7.667846,109.133921,2.59,2.586,8.08,1.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Wlahar,-7.667846,109.133921,2.59,3.639,8.22,2.0,ok_ors
+Desa Penggalang,-7.653371,109.138309,Balai Desa Wlahar,-7.667846,109.133921,2.59,3.746,8.56,3.0,ok_ors
+Desa Wanareja,-7.333816,108.687107,Balai Desa Sidamulya,-7.350584341,108.6761607,2.63,2.63,9.44,1.0,ok_ors
+Desa Bantar,-7.352453,108.721116,Balai Desa Bantar,-7.353149095776255,108.70434235257424,2.63,,,,gagal_ors
+Desa Cilongkrang,-7.408769,108.715668,Balai Desa Tarisi,-7.39470838816254,108.70133486438638,2.65,2.65,2.79,1.0,ok_ors
+Desa Bumireja,-7.536534,108.806366,kelurahan Tambakreja,-7.538736939,108.7836077,2.66,2.659,2.06,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,Balai Desa Bumireja,-7.5377704,108.7994195,2.67,2.672,4.71,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,Balai Desa Bumireja,-7.5377704,108.7994195,2.67,3.508,5.98,2.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,Balai Desa Bumireja,-7.5377704,108.7994195,2.67,2.144,6.25,3.0,ok_ors
+Desa Banjareja,-7.686408,109.374383,Balai Desa Karangsembung,-7.678502548,109.3554419,2.67,2.671,5.44,1.0,ok_ors
+Desa Banjareja,-7.686408,109.374383,Balai Desa Karangsembung,-7.678502548,109.3554419,2.67,3.1,6.06,2.0,ok_ors
+Desa Banjareja,-7.686408,109.374383,Balai Desa Karangsembung,-7.678502548,109.3554419,2.67,3.561,7.28,3.0,ok_ors
+Desa Wlahar,-7.667687,109.13421,Balai Desa Penggalang,-7.653467,109.137016,2.67,2.668,8.31,1.0,ok_ors
+Desa Wlahar,-7.667687,109.13421,Balai Desa Penggalang,-7.653467,109.137016,2.67,3.828,8.79,2.0,ok_ors
+Desa Wlahar,-7.667687,109.13421,Balai Desa Penggalang,-7.653467,109.137016,2.67,3.837,8.97,3.0,ok_ors
+Desa Cimanggu,-7.350939,108.839493,Balai Desa Bantarpanjang,-7.359637040358087,108.85627253527534,2.67,2.666,2.52,1.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Muktisari,-7.505329682,108.8572533,2.67,2.674,4.11,1.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Muktisari,-7.505329682,108.8572533,2.67,3.24,5.11,2.0,ok_ors
+Desa Gandrungmanis,-7.524044,108.85814,Balai Desa Muktisari,-7.505329682,108.8572533,2.67,3.354,5.21,3.0,ok_ors
+Desa Gentasari,-7.601644,109.219899,Balai Desa Karangjati,-7.581200895,109.2224442,2.68,2.682,3.68,1.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Madusari,-7.309033604290997,108.64718680669638,2.68,2.683,5.36,1.0,ok_ors
+Desa Pengaweran,-7.382458,108.877978,Balai Desa Panimbang,-7.367549798741719,108.86583925009202,2.7,2.696,2.46,1.0,ok_ors
+Desa Kedungbenda,-7.66758,109.375326,Balai Desa Banjareja,-7.686421459,109.3734922,2.72,2.715,3.57,1.0,ok_ors
+Desa Tinggarjaya,-7.480452,108.766832,Balai Desa Margasari,-7.46922455,108.7502054,2.73,2.731,4.24,1.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur Lor,-7.599457594,109.2480218,2.73,2.729,3.01,1.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur Lor,-7.599457594,109.2480218,2.73,2.044,3.36,2.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur Lor,-7.599457594,109.2480218,2.73,2.03,4.03,3.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Gunungreja,-7.479329968,108.7856679,2.73,2.731,8.46,1.0,ok_ors
+Desa Adimulya,-7.334996,108.689403,Balai Desa Sidamulya,-7.350584341,108.6761607,2.75,2.755,8.93,1.0,ok_ors
+Desa Mentasan,-7.58261,108.958872,Balai Desa Kalijeruk,-7.578984,108.936294,2.76,2.763,3.09,1.0,ok_ors
+Desa Sudagaran,-7.491794,108.808189,Balai Desa Sidareja,-7.482720383,108.7920794,2.8,2.804,6.54,1.0,ok_ors
+Desa Sudagaran,-7.491794,108.808189,Balai Desa Sidareja,-7.482720383,108.7920794,2.8,3.184,8.96,2.0,ok_ors
+Desa Sidasari,-7.384348,108.78069,Balai Desa Kutasari,-7.394689384,108.8031922,2.82,2.82,4.19,1.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,2.82,2.825,5.25,1.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,2.82,3.538,5.95,2.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,2.82,2.429,5.72,3.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,2.83,2.832,6.22,1.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,2.83,2.662,6.38,2.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,2.83,3.244,8.26,3.0,ok_ors
+Desa Karangtengah,-7.553736,109.218149,Balai Desa Karangasem,-7.569695039,109.208944,2.84,2.836,6.83,1.0,ok_ors
+Desa Karangtengah,-7.553736,109.218149,Balai Desa Karangasem,-7.569695039,109.208944,2.84,3.321,7.69,2.0,ok_ors
+Desa Karangtengah,-7.553736,109.218149,Balai Desa Karangasem,-7.569695039,109.208944,2.84,2.924,7.71,3.0,ok_ors
+Desa Cilopadang,-7.303708,108.790659,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,2.86,2.859,2.69,1.0,ok_ors
+Desa Tambaksari,-7.4401,108.881896,Balai Desa Cinangsi,-7.461127087,108.8814047,2.89,2.887,4.54,1.0,ok_ors
+Desa Tambaksari,-7.4401,108.881896,Balai Desa Cinangsi,-7.461127087,108.8814047,2.89,3.449,4.65,2.0,ok_ors
+Desa Karangrena,-7.606723,109.133039,Balai Desa Karangkemiri,-7.622875,109.130052,2.91,2.908,6.22,1.0,ok_ors
+Desa Sindangsari,-7.300775,108.767969,Balai Desa Cilopadang,-7.304095476590585,108.7902956932206,2.93,2.933,2.96,1.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Tegalsari,-7.485581773,108.7744421,2.94,2.937,5.64,1.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Tegalsari,-7.485581773,108.7744421,2.94,2.524,5.67,2.0,ok_ors
+Desa Gunungreja,-7.479295,108.786157,Balai Desa Tegalsari,-7.485581773,108.7744421,2.94,2.534,6.0,3.0,ok_ors
+Desa Kalijeruk,-7.579115,108.936851,Balai Desa Kawunganten,-7.592701,108.91958,2.96,2.956,3.4,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Kamulyan,-7.526990212,108.8634969,2.97,2.972,8.71,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Kamulyan,-7.526990212,108.8634969,2.97,3.263,10.17,2.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Kamulyan,-7.526990212,108.8634969,2.97,3.284,10.25,3.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,2.98,2.979,5.81,1.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,2.98,5.063,6.47,2.0,ok_ors
+Desa Rejodadi,-7.325671,108.798297,Balai Desa Padangjaya,-7.312561715923866,108.78564673693214,2.98,5.359,6.86,3.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Gentasari,-7.601690492,109.2195852,3.0,2.997,4.93,1.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Gentasari,-7.601690492,109.2195852,3.0,4.14,6.29,2.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Gentasari,-7.601690492,109.2195852,3.0,4.078,6.63,3.0,ok_ors
+Desa Cibalung,-7.320885,108.879411,Balai Desa Bantarmangu,-7.339105124529084,108.8664505797285,3.0,3.004,6.18,1.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Bangunreja,-7.50104298,108.7761072,3.01,3.008,5.9,1.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Bangunreja,-7.50104298,108.7761072,3.01,3.4,6.12,2.0,ok_ors
+Desa Jatisari,-7.514545,108.786467,Balai Desa Bangunreja,-7.50104298,108.7761072,3.01,3.472,6.6,3.0,ok_ors
+Desa Sikampuh,-7.623398,109.197936,Balai Desa Nusajati,-7.597090701,109.1991133,3.02,3.022,3.82,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,Balai Desa Cisumur,-7.532618723,108.8210025,3.03,3.028,5.38,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,Balai Desa Cisumur,-7.532618723,108.8210025,3.03,5.093,7.18,2.0,ok_ors
+Desa Pahonjean,-7.324304,108.740084,Balai Desa Mulyadadi,-7.319125511223776,108.75173528074124,3.04,3.036,5.44,1.0,ok_ors
+Desa Pahonjean,-7.324304,108.740084,Balai Desa Mulyadadi,-7.319125511223776,108.75173528074124,3.04,2.56,5.55,2.0,ok_ors
+Desa Pahonjean,-7.324304,108.740084,Balai Desa Mulyadadi,-7.319125511223776,108.75173528074124,3.04,2.457,6.27,3.0,ok_ors
+Desa Tambakreja,-7.538916,108.782982,Balai Desa Bumireja,-7.5377704,108.7994195,3.04,3.039,4.58,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bulaksari,-7.523812975,108.8887375,3.07,3.07,7.74,1.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bulaksari,-7.523812975,108.8887375,3.07,3.095,8.94,2.0,ok_ors
+Desa Bantarsari,-7.538556,108.876306,Balai Desa Bulaksari,-7.523812975,108.8887375,3.07,3.081,9.18,3.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.08,3.079,5.64,1.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.08,3.984,7.11,2.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.08,3.971,7.78,3.0,ok_ors
+Desa Bantarmangu,-7.332414,108.894194,Balai Desa Mandala,-7.356992217695421,108.88791346224504,3.08,,,,gagal_ors
+Desa Karangpucung,-7.41075,108.906193,Balai Desa Tayem,-7.397383206,108.8990858,3.1,3.104,4.52,1.0,ok_ors
+Desa Karangpucung,-7.41075,108.906193,Balai Desa Tayem,-7.397383206,108.8990858,3.1,2.055,4.85,2.0,ok_ors
+Desa Karangpucung,-7.41075,108.906193,Balai Desa Tayem,-7.397383206,108.8990858,3.1,2.371,5.72,3.0,ok_ors
+Desa Mujur Lor,-7.599874,109.248844,Balai Desa Paberasan,-7.588606145,109.2306704,3.12,3.119,5.19,1.0,ok_ors
+Desa Mujur Lor,-7.599874,109.248844,Balai Desa Paberasan,-7.588606145,109.2306704,3.12,4.139,5.25,2.0,ok_ors
+Desa Mujur Lor,-7.599874,109.248844,Balai Desa Paberasan,-7.588606145,109.2306704,3.12,5.305,5.59,3.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Planjan,-7.623498,109.0785,3.12,3.117,10.35,1.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Planjan,-7.623498,109.0785,3.12,7.304,13.21,2.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Planjan,-7.623498,109.0785,3.12,7.258,13.3,3.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Tinggarjaya,-7.480595869,108.7669981,3.19,3.192,7.88,1.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Tinggarjaya,-7.480595869,108.7669981,3.19,3.764,9.53,2.0,ok_ors
+Desa Margasari,-7.469319,108.774928,Balai Desa Tinggarjaya,-7.480595869,108.7669981,3.19,3.772,9.56,3.0,ok_ors
+Desa Tambaksari,-7.4401,108.881896,Balai Desa Rungkang,-7.438726424,108.8561115,3.21,3.213,7.0,1.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.23,3.229,5.37,1.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.23,4.248,5.44,2.0,ok_ors
+Desa Paberasan,-7.588874,109.231656,Balai Desa Mujur Lor,-7.599457594,109.2480218,3.23,5.326,5.67,3.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,3.24,3.243,5.78,1.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,3.24,3.473,7.41,2.0,ok_ors
+Desa Mulyasari,-7.314002,108.773874,Balai Desa Padangsari,-7.328626531601817,108.78025856834626,3.24,3.478,7.42,3.0,ok_ors
+Desa Dondong,-7.618474,109.067465,Balai Desa Sumingkir,-7.624942,109.049952,3.25,3.247,6.31,1.0,ok_ors
+Desa Kutasari,-7.392746,108.817824,Balai Desa Caruy,-7.375954694,108.8028629,3.27,3.272,7.83,1.0,ok_ors
+Desa Kutasari,-7.392746,108.817824,Balai Desa Caruy,-7.375954694,108.8028629,3.27,3.281,7.87,2.0,ok_ors
+Desa Kutasari,-7.392746,108.817824,Balai Desa Caruy,-7.375954694,108.8028629,3.27,4.955,7.97,3.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Karangreja,-7.355527244545825,108.80268215086484,3.32,3.318,7.22,1.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Karangreja,-7.355527244545825,108.80268215086484,3.32,3.393,8.05,2.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Karangreja,-7.355527244545825,108.80268215086484,3.32,3.248,8.11,3.0,ok_ors
+Desa Ujungmanik,-7.64409,108.951428,Balai Desa Kubangkangkung,-7.620968609,108.9430662,3.42,3.422,4.57,1.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Kamulyan,-7.526990212,108.8634969,3.43,3.431,5.17,1.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Kamulyan,-7.526990212,108.8634969,3.43,3.612,5.52,2.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Kamulyan,-7.526990212,108.8634969,3.43,3.594,6.06,3.0,ok_ors
+Desa Kesugihan Kidul,-7.62259,109.121113,Balai Desa Pesanggrahan,-7.594238,109.114316,3.46,3.456,4.5,1.0,ok_ors
+Desa Kesugihan Kidul,-7.62259,109.121113,Balai Desa Pesanggrahan,-7.594238,109.114316,3.46,4.829,5.22,2.0,ok_ors
+Desa Kesugihan Kidul,-7.62259,109.121113,Balai Desa Pesanggrahan,-7.594238,109.114316,3.46,4.809,5.26,3.0,ok_ors
+Desa Kawunganten Lor,-7.584107,108.922413,Balai Desa Kawunganten,-7.592701,108.91958,3.47,3.472,6.96,1.0,ok_ors
+Desa Kawunganten Lor,-7.584107,108.922413,Balai Desa Kawunganten,-7.592701,108.91958,3.47,3.539,6.99,2.0,ok_ors
+Desa Kawunganten Lor,-7.584107,108.922413,Balai Desa Kawunganten,-7.592701,108.91958,3.47,3.833,8.77,3.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Bantarsari,-7.539932226,108.8705564,3.48,3.478,4.02,1.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548642749,108.8378654,3.53,3.531,10.19,1.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548642749,108.8378654,3.53,4.169,11.58,2.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548642749,108.8378654,3.53,7.511,13.66,3.0,ok_ors
+Desa Bringkeng,-7.635518,108.917016,Balai Desa Bojong,-7.608163551,108.9271265,3.61,3.607,4.62,1.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Patimuan,-7.583574535,108.7608936,3.61,3.607,3.52,1.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Patimuan,-7.583574535,108.7608936,3.61,4.65,4.08,2.0,ok_ors
+Desa Sidamukti,-7.609299,108.754052,Balai Desa Patimuan,-7.583574535,108.7608936,3.61,4.712,4.48,3.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Tarisi,-7.39470838816254,108.70133486438638,3.61,3.61,11.73,1.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Tarisi,-7.39470838816254,108.70133486438638,3.61,4.478,12.42,2.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Tarisi,-7.39470838816254,108.70133486438638,3.61,4.616,13.31,3.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548704606,108.8385509,3.62,3.625,10.4,1.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548704606,108.8385509,3.62,4.009,11.11,2.0,ok_ors
+Desa Cisumur,-7.528578,108.826473,Balai Desa Sidaurip,-7.548704606,108.8385509,3.62,4.127,11.24,3.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Paberasan,-7.588606145,109.2306704,3.62,3.617,5.62,1.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Paberasan,-7.588606145,109.2306704,3.62,3.919,6.48,2.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Paberasan,-7.588606145,109.2306704,3.62,4.6,7.42,3.0,ok_ors
+Desa Karangtengah,-7.553736,109.218149,Balai Desa Sampang,-7.56620612,109.2003484,3.64,3.638,4.32,1.0,ok_ors
+Desa Cilempuyang,-7.342686,108.834565,Balai Desa Bantarpanjang,-7.359637040358087,108.85627253527534,3.7,3.703,3.01,1.0,ok_ors
+Desa Bener,-7.269907,108.759242,Balai Desa Sepatnunggal,-7.244079600877812,108.74378220672055,3.77,3.771,4.61,1.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Kuripan,-7.651916,109.083396,3.88,3.883,11.31,1.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Kuripan,-7.651916,109.083396,3.88,3.589,12.03,2.0,ok_ors
+Desa Jengrana,-7.639427,109.063432,Balai Desa Kuripan,-7.651916,109.083396,3.88,3.764,12.28,3.0,ok_ors
+Desa Bingkeng,-7.236414,108.592881,Balai Desa Dayeuhluhur,-7.259731738239488,108.6116974372905,3.88,3.881,4.81,1.0,ok_ors
+Desa Ujungmanik,-7.64409,108.951428,Balai Desa Babakan,-7.662701,108.932634,3.88,3.876,11.14,1.0,ok_ors
+Desa Ujungmanik,-7.64409,108.951428,Balai Desa Babakan,-7.662701,108.932634,3.88,3.999,13.07,2.0,ok_ors
+Desa Ujungmanik,-7.64409,108.951428,Balai Desa Babakan,-7.662701,108.932634,3.88,4.721,14.52,3.0,ok_ors
+Desa Kesugihan,-7.608235,109.119931,Balai Desa Karangsari,-7.632979,109.135353,3.95,3.951,11.38,1.0,ok_ors
+Desa Karangtengah,-7.553736,109.218149,Balai Desa Karangjati,-7.581200895,109.2224442,3.99,3.994,5.36,1.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur,-7.612273016,109.2523055,4.01,4.014,4.64,1.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur,-7.612273016,109.2523055,4.01,5.308,4.88,2.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Mujur,-7.612273016,109.2523055,4.01,5.192,5.41,3.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Ujungmanik,-7.644039491,108.9514281,4.02,4.023,11.73,1.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Ujungmanik,-7.644039491,108.9514281,4.02,4.147,13.66,2.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Ujungmanik,-7.644039491,108.9514281,4.02,4.572,13.92,3.0,ok_ors
+Desa Cisuru,-7.38692,108.701254,Balai Desa Cilongkrang,-7.407004438152763,108.71434982998896,4.05,4.052,4.66,1.0,ok_ors
+Desa Sidasari,-7.384348,108.78069,Balai Desa Caruy,-7.375954694,108.8028629,4.08,4.083,5.64,1.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Kutasari,-7.394689384,108.8031922,4.09,4.092,7.72,1.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Kutasari,-7.394689384,108.8031922,4.09,6.034,9.65,2.0,ok_ors
+Desa Caruy,-7.373138,108.812791,Balai Desa Kutasari,-7.394689384,108.8031922,4.09,6.351,10.28,3.0,ok_ors
+Desa Buntu,-7.589645,109.252029,Balai Desa Paberasan,-7.588606145,109.2306704,4.11,4.114,3.6,1.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Cipari,-7.439944017,108.7599498,4.11,4.106,6.14,1.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Cipari,-7.439944017,108.7599498,4.11,4.248,8.13,2.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan Timur,-7.30256,108.599943,4.13,4.128,8.85,1.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan Timur,-7.30256,108.599943,4.13,4.823,10.32,2.0,ok_ors
+Desa Panulisan Barat,-7.302995,108.573576,Balai Desa Panulisan Timur,-7.30256,108.599943,4.13,4.92,10.88,3.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Karangreja,-7.41867769710757,108.80219971030536,4.19,4.19,14.05,1.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Karangreja,-7.41867769710757,108.80219971030536,4.19,16.126,18.76,2.0,ok_ors
+Desa Serang,-7.446416,108.788571,Balai Desa Karangreja,-7.41867769710757,108.80219971030536,4.19,15.223,19.03,3.0,ok_ors
+Desa Cilibang,-7.578392,109.019556,Balai Desa Sawangan,-7.593587,108.993748,4.26,4.259,8.64,1.0,ok_ors
+Desa Cilibang,-7.578392,109.019556,Balai Desa Sawangan,-7.593587,108.993748,4.26,10.155,9.62,2.0,ok_ors
+Desa Cilibang,-7.578392,109.019556,Balai Desa Sawangan,-7.593587,108.993748,4.26,6.926,9.53,3.0,ok_ors
+Desa Cilongkrang,-7.408769,108.715668,Balai Desa Cisuru,-7.398928326,108.7365499,4.33,4.333,6.24,1.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur,-7.612273016,109.2523055,4.36,4.363,7.26,1.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur,-7.612273016,109.2523055,4.36,7.248,8.62,2.0,ok_ors
+Desa Karangjati,-7.57744,109.241826,Balai Desa Mujur,-7.612273016,109.2523055,4.36,7.132,9.16,3.0,ok_ors
+Desa Mentasan,-7.58261,108.958872,Balai Desa Sawangan,-7.593587,108.993748,4.36,4.357,4.61,1.0,ok_ors
+Desa Bantar,-7.352453,108.721116,Balai Desa Adimulya,-7.332960915849882,108.68843248947638,4.36,,,,gagal_ors
+Desa Mandala,-7.357041,108.888654,Balai Desa Panimbang,-7.367549798741719,108.86583925009202,4.39,4.395,5.06,1.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Gandrungmanis,-7.525009839,108.855699,4.5,4.501,5.6,1.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Gandrungmanis,-7.525009839,108.855699,4.5,4.682,5.94,2.0,ok_ors
+Desa Bulaksari,-7.523689,108.888506,Balai Desa Gandrungmanis,-7.525009839,108.855699,4.5,4.664,6.49,3.0,ok_ors
+Desa Pahonjean,-7.324304,108.740084,Balai Desa Cibeunying,-7.2945766910061725,108.74267406439527,4.52,4.518,4.63,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,kelurahan Tambakreja,-7.538736939,108.7836077,4.54,4.541,5.82,1.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,kelurahan Tambakreja,-7.538736939,108.7836077,4.54,5.377,7.09,2.0,ok_ors
+Desa Kaliwungu,-7.548292,108.80998,kelurahan Tambakreja,-7.538736939,108.7836077,4.54,4.344,7.1,3.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Pucung Kidul,-7.635810464,109.2713415,4.58,4.582,8.62,1.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Pucung Kidul,-7.635810464,109.2713415,4.58,4.231,9.85,2.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Pucung Kidul,-7.635810464,109.2713415,4.58,4.236,10.06,3.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Cilongkrang,-7.407004438152763,108.71434982998896,4.58,4.581,13.12,1.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Cilongkrang,-7.407004438152763,108.71434982998896,4.58,5.449,13.81,2.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Cilongkrang,-7.407004438152763,108.71434982998896,4.58,5.588,14.7,3.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Sikanco,-7.639537242,109.299082,4.59,4.594,10.72,1.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Sikanco,-7.639537242,109.299082,4.59,4.087,10.81,2.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Sikanco,-7.639537242,109.299082,4.59,4.005,11.23,3.0,ok_ors
+Desa Bener,-7.269907,108.759242,Balai Desa Sindangsari,-7.300439235287598,108.76743410896202,4.59,4.589,5.88,1.0,ok_ors
+Desa Grugu,-7.645244,108.912399,Balai Desa Ujungmanik,-7.644039491,108.9514281,4.74,4.74,7.33,1.0,ok_ors
+Desa Bingkeng,-7.236414,108.592881,Balai Desa Hanum,-7.22878372400323,108.6200864662171,4.8,4.796,9.65,1.0,ok_ors
+Desa Bingkeng,-7.236414,108.592881,Balai Desa Hanum,-7.22878372400323,108.6200864662171,4.8,4.788,9.97,2.0,ok_ors
+Desa Bingkeng,-7.236414,108.592881,Balai Desa Hanum,-7.22878372400323,108.6200864662171,4.8,7.37,9.81,3.0,ok_ors
+Desa Bringkeng,-7.635518,108.917016,Balai Desa Kubangkangkung,-7.620968609,108.9430662,4.94,4.945,6.08,1.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Bulaksari,-7.523812975,108.8887375,4.96,4.964,9.21,1.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Bulaksari,-7.523812975,108.8887375,4.96,10.162,11.54,2.0,ok_ors
+Desa Rawajaya,-7.557334,108.892896,Balai Desa Bulaksari,-7.523812975,108.8887375,4.96,10.177,11.6,3.0,ok_ors
+Desa Cisuru,-7.38692,108.701254,Balai Desa Bantar,-7.353149095776255,108.70434235257424,4.96,4.957,6.42,1.0,ok_ors
+Desa Brebeg,-7.626715,109.001461,Balai Desa Jeruklegi Kulon,-7.607179,109.01535,4.98,4.98,7.43,1.0,ok_ors
+Desa Brebeg,-7.626715,109.001461,Balai Desa Sidaurip,-7.607180987983122,108.98216060415469,5.07,5.066,7.34,1.0,ok_ors
+Desa Brebeg,-7.626715,109.001461,Balai Desa Sidaurip,-7.607180987983122,108.98216060415469,5.07,3.812,8.52,2.0,ok_ors
+Desa Brebeg,-7.626715,109.001461,Balai Desa Sidaurip,-7.607180987983122,108.98216060415469,5.07,3.877,9.05,3.0,ok_ors
+Desa Grugu,-7.645244,108.912399,Balai Desa Bojong,-7.608163551,108.9271265,5.08,5.084,7.4,1.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Sidamulya,-7.350584341,108.6761607,5.09,5.089,10.98,1.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Sidamulya,-7.350584341,108.6761607,5.09,6.574,11.64,2.0,ok_ors
+Desa Madura,-7.331412,108.644776,Balai Desa Sidamulya,-7.350584341,108.6761607,5.09,6.905,11.88,3.0,ok_ors
+Desa Kutasari,-7.392746,108.817824,Balai Desa Sidasari,-7.384284459,108.7801567,5.15,5.145,9.13,1.0,ok_ors
+Desa Binagun,-7.543184,108.92231,Balai Desa Kawunganten Lor,-7.58543,108.919056,5.26,5.257,7.38,1.0,ok_ors
+Desa Bantar,-7.352453,108.721116,Balai Desa Wanareja,-7.32853370869163,108.68339457787062,5.3,,,,gagal_ors
+Desa Bantarmangu,-7.332414,108.894194,Balai Desa Surusunda,-7.372539172,108.8984601,5.35,,,,gagal_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Grugu,-7.645197858,108.9126578,5.43,5.427,14.44,1.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Grugu,-7.645197858,108.9126578,5.43,5.608,17.45,2.0,ok_ors
+Desa Babakan,-7.66247,108.933569,Balai Desa Grugu,-7.645197858,108.9126578,5.43,5.277,17.33,3.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Danasri Lor,-7.639879709,109.3079376,5.61,5.614,11.63,1.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Danasri Lor,-7.639879709,109.3079376,5.61,5.107,11.72,2.0,ok_ors
+Desa Kedawung,-7.617419,109.287715,Balai Desa Danasri Lor,-7.639879709,109.3079376,5.61,5.025,12.14,3.0,ok_ors
+Desa Cimrutu,-7.619538,108.802522,Balai Desa Sidamukti,-7.609405948,108.7556989,5.98,5.975,12.54,1.0,ok_ors
+Desa Cimrutu,-7.619538,108.802522,Balai Desa Purwodadi,-7.600792841,108.7623893,6.03,6.028,14.31,1.0,ok_ors
+Desa Cimrutu,-7.619538,108.802522,Balai Desa Purwodadi,-7.600792841,108.7623893,6.03,6.018,18.36,2.0,ok_ors
+Desa Cimrutu,-7.619538,108.802522,Balai Desa Purwodadi,-7.600792841,108.7623893,6.03,6.602,20.01,3.0,ok_ors
+Desa Ujunggagak,-7.665938,108.818228,Balai Desa Panikel,-7.632277,108.855158,6.17,6.169,14.28,1.0,ok_ors
+Desa Panikel,-7.631573,108.856721,Balai Desa Ujunggagak,-7.666216,108.819289,6.51,6.509,14.79,1.0,ok_ors
+Desa Ujungalang,-7.700257,108.887835,Balai Desa Klaces,-7.685966,108.827926,7.47,,,,gagal_ors
+Desa Panikel,-7.631573,108.856721,Balai Desa Gintungreja,-7.570663353,108.865881,8.61,8.612,19.2,1.0,ok_ors
+Desa Panikel,-7.631573,108.856721,Balai Desa Gintungreja,-7.570663353,108.865881,8.61,9.524,21.13,2.0,ok_ors
+Desa Panikel,-7.631573,108.856721,Balai Desa Gintungreja,-7.570663353,108.865881,8.61,9.502,20.96,3.0,ok_ors
+Desa Tarisi,-7.392666,108.694566,Balai Desa Cisuru,-7.398928326,108.7365499,8.93,8.932,18.54,1.0,ok_ors
+Desa Ujunggagak,-7.665938,108.818228,Balai Desa Gintungreja,-7.570663353,108.865881,14.74,14.738,33.01,1.0,ok_ors
+Desa Boja,-7.211251,108.945039,Balai Desa Kutabima,-7.280607664645105,108.88291821754824,17.91,,,,gagal_ors
+Desa Boja,-7.211251,108.945039,Balai Desa Cisalak,-7.307785089523783,108.8654459383816,23.1,,,,gagal_ors
+Desa Boja,-7.211251,108.945039,Balai Desa Cibalung,-7.320312734352611,108.8786737778771,25.39,,,,gagal_ors
+Desa Dayeluhur,-7.173785,108.392153,Balai Desa Bolang,-7.202147627995013,108.58564433552408,26.69,26.694,31.82,1.0,ok_ors
+Desa Dayeluhur,-7.173785,108.392153,Balai Desa Cijeruk,-7.197356148363169,108.60044893735493,28.93,28.932,35.64,1.0,ok_ors
+Desa Dayeluhur,-7.173785,108.392153,Balai Desa Cijeruk,-7.197356148363169,108.60044893735493,28.93,43.768,49.34,2.0,ok_ors
+Desa Dayeluhur,-7.173785,108.392153,Balai Desa Cijeruk,-7.197356148363169,108.60044893735493,28.93,43.806,49.53,3.0,ok_ors
+Desa Dayeluhur,-7.173785,108.392153,Balai Desa Bingkeng,-7.2371112160104465,108.59272960668014,28.94,28.94,38.77,1.0,ok_ors
+Kelurahan Kutawaru,-7.697561,108.990425,AMN Cilacap,-7.70348513473806,109.0200979788938,32.23,32.233,44.42,1.0,ok_ors
+Kelurahan Kutawaru,-7.697561,108.990425,Hotel Mutiara,-7.7090125,109.0192032,32.39,32.388,42.19,1.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri Lor,-7.639879709,109.3079376,37.07,37.066,32.33,1.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri Lor,-7.639879709,109.3079376,37.07,43.976,34.43,2.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri Lor,-7.639879709,109.3079376,37.07,44.177,35.27,3.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Mujur Lor,-7.599457594,109.2480218,37.26,37.265,27.63,1.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri,-7.645367881,109.3049447,37.85,37.849,33.42,1.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri,-7.645367881,109.3049447,37.85,44.371,35.11,2.0,ok_ors
+Desa Karangasem,-7.472167,109.475513,Balai Desa Danasri,-7.645367881,109.3049447,37.85,44.572,35.95,3.0,ok_ors
