@@ -1,0 +1,284 @@
+adm4,nama,provinsi,kotkab,kecamatan,desa,lat,lon,timezone,status
+33.01.01.2001,Tambakreja,Jawa Tengah,Cilacap,Kedungreja,Tambakreja,-7.5477428257,108.7750717175,+0700,ok
+33.01.01.2002,Bumireja,Jawa Tengah,Cilacap,Kedungreja,Bumireja,-7.5421909836,108.7934806986,+0700,ok
+33.01.01.2003,Ciklapa,Jawa Tengah,Cilacap,Kedungreja,Ciklapa,-7.5031259351,108.7998658422,+0700,ok
+33.01.01.2004,Kedungreja,Jawa Tengah,Cilacap,Kedungreja,Kedungreja,-7.519433861,108.7699722399,+0700,ok
+33.01.01.2005,Tambaksari,Jawa Tengah,Cilacap,Kedungreja,Tambaksari,-7.509031751,108.7473084365,+0700,ok
+33.01.01.2006,Rejamulya,Jawa Tengah,Cilacap,Kedungreja,Rejamulya,-7.4858372823,108.7377600642,+0700,ok
+33.01.01.2007,Sidanegara,Jawa Tengah,Cilacap,Kedungreja,Sidanegara,-7.5440491216,108.7544945836,+0700,ok
+33.01.01.2008,Kaliwungu,Jawa Tengah,Cilacap,Kedungreja,Kaliwungu,-7.5593010991,108.8043983749,+0700,ok
+33.01.01.2009,Jatisari,Jawa Tengah,Cilacap,Kedungreja,Jatisari,-7.5205780751,108.7987164094,+0700,ok
+33.01.01.2010,Bangunreja,Jawa Tengah,Cilacap,Kedungreja,Bangunreja,-7.4963372388,108.7736280049,+0700,ok
+33.01.01.2011,Bojongsari,Jawa Tengah,Cilacap,Kedungreja,Bojongsari,-7.4613374716,108.7265452702,+0700,ok
+33.01.02.2001,Menganti,Jawa Tengah,Cilacap,Kesugihan,Menganti,-7.6731051959,109.0720889654,+0700,ok
+33.01.02.2002,Slarang,Jawa Tengah,Cilacap,Kesugihan,Slarang,-7.6665160477,109.1058769017,+0700,ok
+33.01.02.2003,Kesugihan,Jawa Tengah,Cilacap,Kesugihan,Kesugihan,-7.6115452205,109.1118095556,+0700,ok
+33.01.02.2004,Kalisabuk,Jawa Tengah,Cilacap,Kesugihan,Kalisabuk,-7.6424949886,109.0990369427,+0700,ok
+33.01.02.2005,Karangkandri,Jawa Tengah,Cilacap,Kesugihan,Karangkandri,-7.6755588142,109.0877018289,+0700,ok
+33.01.02.2006,Kuripan,Jawa Tengah,Cilacap,Kesugihan,Kuripan,-7.6452236555,109.0815399167,+0700,ok
+33.01.02.2007,Dondong,Jawa Tengah,Cilacap,Kesugihan,Dondong,-7.6161094763,109.0640823619,+0700,ok
+33.01.02.2008,Planjan,Jawa Tengah,Cilacap,Kesugihan,Planjan,-7.6133275382,109.0760456145,+0700,ok
+33.01.02.2009,Ciwuni,Jawa Tengah,Cilacap,Kesugihan,Ciwuni,-7.5903445007,109.077175114,+0700,ok
+33.01.02.2010,Karangjengkol,Jawa Tengah,Cilacap,Kesugihan,Karangjengkol,-7.6000954087,109.0930638961,+0700,ok
+33.01.02.2011,Keleng,Jawa Tengah,Cilacap,Kesugihan,Keleng,-7.5897570451,109.1057870954,+0700,ok
+33.01.02.2012,Pesanggrahan,Jawa Tengah,Cilacap,Kesugihan,Pesanggrahan,-7.5902966474,109.1178236929,+0700,ok
+33.01.02.2013,Bulupayung,Jawa Tengah,Cilacap,Kesugihan,Bulupayung,-7.5895074082,109.1336986213,+0700,ok
+33.01.02.2014,Kuripan Kidul,Jawa Tengah,Cilacap,Kesugihan,Kuripan kidul,-7.654792849,109.0775331146,+0700,ok
+33.01.02.2015,Jangrana,Jawa Tengah,Cilacap,Kesugihan,Jangrana,-7.6394874739,109.0602388336,+0700,ok
+33.01.02.2016,Kesugihan Kidul,Jawa Tengah,Cilacap,Kesugihan,Kesugihan kidul,-7.6338429668,109.1150842416,+0700,ok
+33.01.03.2001,Welahan Wetan,Jawa Tengah,Cilacap,Adipala,Welahan wetan,-7.6839900907,109.2296879941,+0700,ok
+33.01.03.2002,Glempangpasir,Jawa Tengah,Cilacap,Adipala,Glempangpasir,-7.6817722857,109.2048051797,+0700,ok
+33.01.03.2003,Pedasong,Jawa Tengah,Cilacap,Adipala,Pedasong,-7.6690301868,109.1925377977,+0700,ok
+33.01.03.2004,Karangbenda,Jawa Tengah,Cilacap,Adipala,Karangbenda,-7.6803691556,109.1779574558,+0700,ok
+33.01.03.2005,Karanganyar,Jawa Tengah,Cilacap,Adipala,Karanganyar,-7.6726999011,109.1624619349,+0700,ok
+33.01.03.2006,Bunton,Jawa Tengah,Cilacap,Adipala,Bunton,-7.6820920384,109.141650375,+0700,ok
+33.01.03.2007,Wlahar,Jawa Tengah,Cilacap,Adipala,Wlahar,-7.6686957699,109.1313657984,+0700,ok
+33.01.03.2008,Penggalang,Jawa Tengah,Cilacap,Adipala,Penggalang,-7.6497279166,109.1313907233,+0700,ok
+33.01.03.2009,Adipala,Jawa Tengah,Cilacap,Adipala,Adipala,-7.6590372309,109.1490079935,+0700,ok
+33.01.03.2010,Adireja Kulon,Jawa Tengah,Cilacap,Adipala,Adireja kulon,-7.651549322,109.1601615764,+0700,ok
+33.01.03.2011,Adireja Wetan,Jawa Tengah,Cilacap,Adipala,Adireja wetan,-7.6488828796,109.1681323456,+0700,ok
+33.01.03.2012,Adiraja,Jawa Tengah,Cilacap,Adipala,Adiraja,-7.6575932957,109.1790032575,+0700,ok
+33.01.03.2013,Doplang,Jawa Tengah,Cilacap,Adipala,Doplang,-7.6340573674,109.1807356129,+0700,ok
+33.01.03.2014,Kalikudi,Jawa Tengah,Cilacap,Adipala,Kalikudi,-7.633314788,109.1588580942,+0700,ok
+33.01.03.2015,Karangsari,Jawa Tengah,Cilacap,Adipala,Karangsari,-7.6361756352,109.1361896073,+0700,ok
+33.01.03.2016,Gombolharjo,Jawa Tengah,Cilacap,Adipala,Gombolharjo,-7.6691426543,109.114552384,+0700,ok
+33.01.04.2001,Jati,Jawa Tengah,Cilacap,Binangun,Jati,-7.6621506001,109.2022742451,+0700,ok
+33.01.04.2002,Kepudang,Jawa Tengah,Cilacap,Binangun,Kepudang,-7.6619183289,109.2179895128,+0700,ok
+33.01.04.2003,Jepara Kulon,Jawa Tengah,Cilacap,Binangun,Jepara Kulon,-7.6652720097,109.2341140222,+0700,ok
+33.01.04.2004,Widarapayung Kulon,Jawa Tengah,Cilacap,Binangun,Widarapayung Kulon,-7.6856926126,109.2476860469,+0700,ok
+33.01.04.2005,Jepara Wetan,Jawa Tengah,Cilacap,Binangun,Jepara Wetan,-7.6628965549,109.2537786511,+0700,ok
+33.01.04.2006,Bangkal,Jawa Tengah,Cilacap,Binangun,Bangkal,-7.6499781142,109.2609108848,+0700,ok
+33.01.04.2007,Binangun,Jawa Tengah,Cilacap,Binangun,Binangun,-7.6639419894,109.2681612239,+0700,ok
+33.01.04.2008,Widarapayung Wetan,Jawa Tengah,Cilacap,Binangun,Widarapayung Wetan,-7.6881106375,109.2710273693,+0700,ok
+33.01.04.2009,Alangamba,Jawa Tengah,Cilacap,Binangun,Alangamba,-7.6654457473,109.2782174775,+0700,ok
+33.01.04.2010,Pasuruhan,Jawa Tengah,Cilacap,Binangun,Pasuruhan,-7.6709552238,109.3000288626,+0700,ok
+33.01.04.2011,Sidaurip,Jawa Tengah,Cilacap,Binangun,Sidaurip,-7.6884968552,109.2880473353,+0700,ok
+33.01.04.2012,Pagubugan,Jawa Tengah,Cilacap,Binangun,Pagubugan,-7.6927843759,109.3147922174,+0700,ok
+33.01.04.2013,Pesawahan,Jawa Tengah,Cilacap,Binangun,Pesawahan,-7.6728892711,109.3103158129,+0700,ok
+33.01.04.2014,Kemojing,Jawa Tengah,Cilacap,Binangun,Kemojing,-7.6645139641,109.3136452272,+0700,ok
+33.01.04.2015,Karangnangka,Jawa Tengah,Cilacap,Binangun,Karangnangka,-7.6644380829,109.3142595058,+0700,ok
+33.01.04.2016,Sidayu,Jawa Tengah,Cilacap,Binangun,Sidayu,-7.6869053562,109.2577142006,+0700,ok
+33.01.04.2017,Pagubugan Kulon,Jawa Tengah,Cilacap,Binangun,Pagubugan Kulon,-7.6900414064,109.3030893172,+0700,ok
+33.01.05.2001,Karangtawang,Jawa Tengah,Cilacap,Nusawungu,Karangtawang,-7.6922987846,109.3270529207,+0700,ok
+33.01.05.2002,Karangpakis,Jawa Tengah,Cilacap,Nusawungu,Karangpakis,-7.698164379,109.3419351751,+0700,ok
+33.01.05.2003,Banjarsari,Jawa Tengah,Cilacap,Nusawungu,Banjarsari,-7.7003615376,109.3606991854,+0700,ok
+33.01.05.2004,Jetis,Jawa Tengah,Cilacap,Nusawungu,Jetis,-7.7060856049,109.3795331488,+0700,ok
+33.01.05.2005,Banjareja,Jawa Tengah,Cilacap,Nusawungu,Banjareja,-7.6842090322,109.3719258068,+0700,ok
+33.01.05.2006,Kedungbenda,Jawa Tengah,Cilacap,Nusawungu,Kedungbenda,-7.6689772049,109.3758116673,+0700,ok
+33.01.05.2007,Klumprit,Jawa Tengah,Cilacap,Nusawungu,Klumprit,-7.6633920441,109.3590338105,+0700,ok
+33.01.05.2008,Karangsembung,Jawa Tengah,Cilacap,Nusawungu,Karangsembung,-7.6834785528,109.3508934956,+0700,ok
+33.01.05.2009,Purwodadi,Jawa Tengah,Cilacap,Nusawungu,Purwodadi,-7.6748617359,109.3403670552,+0700,ok
+33.01.05.2010,Nusawangkal,Jawa Tengah,Cilacap,Nusawungu,Nusawangkal,-7.6662478609,109.3441932591,+0700,ok
+33.01.05.2011,Karangputat,Jawa Tengah,Cilacap,Nusawungu,Karangputat,-7.6606735848,109.3231345186,+0700,ok
+33.01.05.2012,Banjarwaru,Jawa Tengah,Cilacap,Nusawungu,Banjarwaru,-7.6546619423,109.3113908075,+0700,ok
+33.01.05.2013,Danasri Kidul,Jawa Tengah,Cilacap,Nusawungu,Danasri Kidul,-7.6487927858,109.3222065647,+0700,ok
+33.01.05.2014,Nusawungu,Jawa Tengah,Cilacap,Nusawungu,Nusawungu,-7.6466453184,109.3471480403,+0700,ok
+33.01.05.2015,Danasri Lor,Jawa Tengah,Cilacap,Nusawungu,Danasri Lor,-7.6383804227,109.3231039762,+0700,ok
+33.01.05.2016,Danasri,Jawa Tengah,Cilacap,Nusawungu,Danasri,-7.6455654342,109.3029005871,+0700,ok
+33.01.05.2017,Sikanco,Jawa Tengah,Cilacap,Nusawungu,Sikanco,-7.632886485,109.2997554934,+0700,ok
+33.01.06.2001,Sikampuh,Jawa Tengah,Cilacap,Kroya,Sikampuh,-7.6282314676,109.1985810679,+0700,ok
+33.01.06.2002,Pekuncen,Jawa Tengah,Cilacap,Kroya,Pekuncen,-7.6375465633,109.2129013289,+0700,ok
+33.01.06.2003,Ayamalas,Jawa Tengah,Cilacap,Kroya,Ayamalas,-7.6526758927,109.236503717,+0700,ok
+33.01.06.2004,Pesanggrahan,Jawa Tengah,Cilacap,Kroya,Pesanggrahan,-7.6394604115,109.2295425011,+0700,ok
+33.01.06.2005,Kroya,Jawa Tengah,Cilacap,Kroya,Kroya,-7.6335273605,109.2451299221,+0700,ok
+33.01.06.2006,Karangmangu,Jawa Tengah,Cilacap,Kroya,Karangmangu,-7.6415510085,109.250175936,+0700,ok
+33.01.06.2007,Pucung Kidul,Jawa Tengah,Cilacap,Kroya,Pucung Kidul,-7.6393129125,109.2733756748,+0700,ok
+33.01.06.2008,Mergawati,Jawa Tengah,Cilacap,Kroya,Mergawati,-7.6429727862,109.2861012336,+0700,ok
+33.01.06.2009,Pucung Lor,Jawa Tengah,Cilacap,Kroya,Pucung Lor,-7.62955808,109.2787890065,+0700,ok
+33.01.06.2010,Bajing,Jawa Tengah,Cilacap,Kroya,Bajing,-7.6273971512,109.2622069892,+0700,ok
+33.01.06.2011,Gentasari,Jawa Tengah,Cilacap,Kroya,Gentasari,-7.6046372425,109.2231792397,+0700,ok
+33.01.06.2012,Kedawung,Jawa Tengah,Cilacap,Kroya,Kedawung,-7.6209365686,109.2363393932,+0700,ok
+33.01.06.2013,Mujur,Jawa Tengah,Cilacap,Kroya,Mujur,-7.613027794,109.2510406518,+0700,ok
+33.01.06.2014,Buntu,Jawa Tengah,Cilacap,Kroya,Buntu,-7.5920532959,109.2517848475,+0700,ok
+33.01.06.2015,Karangturi,Jawa Tengah,Cilacap,Kroya,Karangturi,-7.6498884347,109.2161122572,+0700,ok
+33.01.06.2016,Bajing Kulon,Jawa Tengah,Cilacap,Kroya,Bajing Kulon,-7.6273279083,109.2204468068,+0700,ok
+33.01.06.2017,Mujur Lor,Jawa Tengah,Cilacap,Kroya,Mujur Lor,-7.600815951,109.2497715591,+0700,ok
+33.01.07.2001,Karangkemiri,Jawa Tengah,Cilacap,Maos,Karangkemiri,-7.6246545098,109.1312568723,+0700,ok
+33.01.07.2002,Karangrena,Jawa Tengah,Cilacap,Maos,Karangrena,-7.6077482831,109.1289282278,+0700,ok
+33.01.07.2003,Maos Kidul,Jawa Tengah,Cilacap,Maos,Maos kidul,-7.6103217906,109.1539694656,+0700,ok
+33.01.07.2004,Maos Lor,Jawa Tengah,Cilacap,Maos,Maos lor,-7.5980162549,109.1562221301,+0700,ok
+33.01.07.2005,Kalijaran,Jawa Tengah,Cilacap,Maos,Kalijaran,-7.6090459182,109.1716444424,+0700,ok
+33.01.07.2006,Mernek,Jawa Tengah,Cilacap,Maos,Mernek,-7.6130989603,109.1823071052,+0700,ok
+33.01.07.2007,Panisihan,Jawa Tengah,Cilacap,Maos,Panisihan,-7.5878708267,109.1584993147,+0700,ok
+33.01.07.2008,Glempang,Jawa Tengah,Cilacap,Maos,Glempang,-7.5807317452,109.1701776665,+0700,ok
+33.01.07.2009,Karangreja,Jawa Tengah,Cilacap,Maos,Karangreja,-7.6233945296,109.1431573072,+0700,ok
+33.01.07.2010,Klapagada,Jawa Tengah,Cilacap,Maos,Klapagada,-7.6185044447,109.1514205152,+0700,ok
+33.01.08.2001,Tritih Wetan,Jawa Tengah,Cilacap,Jeruklegi,Tritih wetan,-7.6591915419,109.0520506816,+0700,ok
+33.01.08.2002,Sumingkir,Jawa Tengah,Cilacap,Jeruklegi,Sumingkir,-7.6176150303,109.0475733074,+0700,ok
+33.01.08.2003,Jeruklegi Wetan,Jawa Tengah,Cilacap,Jeruklegi,Jeruklegi wetan,-7.6158959447,109.0255873557,+0700,ok
+33.01.08.2004,Brebeg,Jawa Tengah,Cilacap,Jeruklegi,Brebeg,-7.6360761067,108.9956253895,+0700,ok
+33.01.08.2005,Jeruklegi Kulon,Jawa Tengah,Cilacap,Jeruklegi,Jeruklegi kulon,-7.6006739392,109.0099883603,+0700,ok
+33.01.08.2006,Cilibang,Jawa Tengah,Cilacap,Jeruklegi,Cilibang,-7.5866033027,109.0245211241,+0700,ok
+33.01.08.2007,Mandala,Jawa Tengah,Cilacap,Jeruklegi,Mandala,-7.5925922657,109.0515682103,+0700,ok
+33.01.08.2008,Karangkemiri,Jawa Tengah,Cilacap,Jeruklegi,Karangkemiri,-7.5728683319,109.0497744685,+0700,ok
+33.01.08.2009,Jambusari,Jawa Tengah,Cilacap,Jeruklegi,Jambusari,-7.5645820452,109.0260466913,+0700,ok
+33.01.08.2010,Prapagan,Jawa Tengah,Cilacap,Jeruklegi,Prapagan,-7.5616430134,109.0030991456,+0700,ok
+33.01.08.2011,Sawangan,Jawa Tengah,Cilacap,Jeruklegi,Sawangan,-7.5864019082,108.9913629558,+0700,ok
+33.01.08.2012,Citepus,Jawa Tengah,Cilacap,Jeruklegi,Citepus,-7.5430543834,108.9873130283,+0700,ok
+33.01.08.2013,Tritih Lor,Jawa Tengah,Cilacap,Jeruklegi,Tritih lor,-7.6395086397,109.038581043,+0700,ok
+33.01.09.2001,Grugu,Jawa Tengah,Cilacap,Kawunganten,Grugu,-7.6552607347,108.908537794,+0700,ok
+33.01.09.2002,Bringkeng,Jawa Tengah,Cilacap,Kawunganten,Bringkeng,-7.6319408423,108.9097227556,+0700,ok
+33.01.09.2003,Ujungmanik,Jawa Tengah,Cilacap,Kawunganten,Ujungmanik,-7.6476723955,108.9509679429,+0700,ok
+33.01.09.2004,Kubangkangkung,Jawa Tengah,Cilacap,Kawunganten,Kubangkangkung,-7.6166230414,108.9514705062,+0700,ok
+33.01.09.2005,Bojong,Jawa Tengah,Cilacap,Kawunganten,Bojong,-7.61033996,108.9195583839,+0700,ok
+33.01.09.2006,Mentasan,Jawa Tengah,Cilacap,Kawunganten,Mentasan,-7.5817351359,108.9605007163,+0700,ok
+33.01.09.2007,Kalijeruk,Jawa Tengah,Cilacap,Kawunganten,Kalijeruk,-7.5709068475,108.9397302961,+0700,ok
+33.01.09.2008,Kawunganten,Jawa Tengah,Cilacap,Kawunganten,Kawunganten,-7.5897790198,108.9034813341,+0700,ok
+33.01.09.2009,Sarwadadi,Jawa Tengah,Cilacap,Kawunganten,Sarwadadi,-7.5551348756,108.9127651008,+0700,ok
+33.01.09.2010,Kawunganten Lor,Jawa Tengah,Cilacap,Kawunganten,Kawunganten lor,-7.5766406384,108.9160055969,+0700,ok
+33.01.09.2014,Babakan,Jawa Tengah,Cilacap,Kawunganten,Babakan,-7.6628707744,108.9375760631,+0700,ok
+33.01.09.2015,Sidaurip,Jawa Tengah,Cilacap,Kawunganten,Sidaurip,-7.6128440682,108.9781173779,+0700,ok
+33.01.10.2001,Gandrungmangu,Jawa Tengah,Cilacap,Gandrungmangu,Gandrungmangu,-7.5082676913,108.8452031211,+0700,ok
+33.01.10.2002,Gandrungmanis,Jawa Tengah,Cilacap,Gandrungmangu,Gandrungmanis,-7.5376274565,108.8509199469,+0700,ok
+33.01.10.2003,Cisumur,Jawa Tengah,Cilacap,Gandrungmangu,Cisumur,-7.5335524676,108.8229018702,+0700,ok
+33.01.10.2004,Karanganyar,Jawa Tengah,Cilacap,Gandrungmangu,Karanganyar,-7.476650885,108.8473435954,+0700,ok
+33.01.10.2005,Cinangsi,Jawa Tengah,Cilacap,Gandrungmangu,Cinangsi,-7.4645886471,108.8823186622,+0700,ok
+33.01.10.2006,Karanggintung,Jawa Tengah,Cilacap,Gandrungmangu,Karanggintung,-7.449802811,108.866163045,+0700,ok
+33.01.10.2007,Rungkang,Jawa Tengah,Cilacap,Gandrungmangu,Rungkang,-7.4312603304,108.8544801964,+0700,ok
+33.01.10.2008,Sidaurip,Jawa Tengah,Cilacap,Gandrungmangu,Sidaurip,-7.5701486063,108.8335603953,+0700,ok
+33.01.10.2009,Gintungreja,Jawa Tengah,Cilacap,Gandrungmangu,Gintungreja,-7.581613441,108.8531084138,+0700,ok
+33.01.10.2010,Layansari,Jawa Tengah,Cilacap,Gandrungmangu,Layansari,-7.5538868291,108.8568516542,+0700,ok
+33.01.10.2011,Bulusari,Jawa Tengah,Cilacap,Gandrungmangu,Bulusari,-7.516335543,108.8365310938,+0700,ok
+33.01.10.2012,Muktisari,Jawa Tengah,Cilacap,Gandrungmangu,Muktisari,-7.4930608222,108.8687641646,+0700,ok
+33.01.10.2013,Wringinharjo,Jawa Tengah,Cilacap,Gandrungmangu,Wringinharjo,-7.4845035038,108.8250031027,+0700,ok
+33.01.10.2014,Kertajaya,Jawa Tengah,Cilacap,Gandrungmangu,Kertajaya,-7.482559194,108.8992018371,+0700,ok
+33.01.11.2001,Tinggarjaya,Jawa Tengah,Cilacap,Sidareja,Tinggarjaya,-7.4737281735,108.7678358461,+0700,ok
+33.01.11.2002,Sidareja,Jawa Tengah,Cilacap,Sidareja,Sidareja,-7.47974812,108.7933931482,+0700,ok
+33.01.11.2003,Sidamulya,Jawa Tengah,Cilacap,Sidareja,Sidamulya,-7.4827130172,108.802276362,+0700,ok
+33.01.11.2004,Kunci,Jawa Tengah,Cilacap,Sidareja,Kunci,-7.4623765508,108.8033118995,+0700,ok
+33.01.11.2005,Karanggedang,Jawa Tengah,Cilacap,Sidareja,Karanggedang,-7.4431826319,108.8382234399,+0700,ok
+33.01.11.2006,Penyarang,Jawa Tengah,Cilacap,Sidareja,Penyarang,-7.434603671,108.8227925218,+0700,ok
+33.01.11.2007,Tegalsari,Jawa Tengah,Cilacap,Sidareja,Tegalsari,-7.4867124956,108.771363534,+0700,ok
+33.01.11.2008,Margasari,Jawa Tengah,Cilacap,Sidareja,Margasari,-7.4682947321,108.7466808135,+0700,ok
+33.01.11.2009,Gunungreja,Jawa Tengah,Cilacap,Sidareja,Gunungreja,-7.4709553645,108.781996893,+0700,ok
+33.01.11.2010,Sudagaran,Jawa Tengah,Cilacap,Sidareja,Sudagaran,-7.4895587711,108.8114528626,+0700,ok
+33.01.12.2001,Cidadap,Jawa Tengah,Cilacap,Karangpucung,Cidadap,-7.4039304735,108.8414583822,+0700,ok
+33.01.12.2002,Pangawaren,Jawa Tengah,Cilacap,Karangpucung,Pangawaren,-7.3883810856,108.8519650657,+0700,ok
+33.01.12.2003,Gunungtelu,Jawa Tengah,Cilacap,Karangpucung,Gunungtelu,-7.4181939406,108.8713295104,+0700,ok
+33.01.12.2004,Sindangbarang,Jawa Tengah,Cilacap,Karangpucung,Sindangbarang,-7.4341166183,108.900420652,+0700,ok
+33.01.12.2005,Karangpucung,Jawa Tengah,Cilacap,Karangpucung,Karangpucung,-7.4092807327,108.8919378499,+0700,ok
+33.01.12.2006,Ciporos,Jawa Tengah,Cilacap,Karangpucung,Ciporos,-7.3837055471,108.873621704,+0700,ok
+33.01.12.2007,Tayem,Jawa Tengah,Cilacap,Karangpucung,Tayem,-7.3935800139,108.9049927976,+0700,ok
+33.01.12.2008,Bengbulang,Jawa Tengah,Cilacap,Karangpucung,Bengbulang,-7.3775609125,108.932438779,+0700,ok
+33.01.12.2009,Surusunda,Jawa Tengah,Cilacap,Karangpucung,Surusunda,-7.3680866951,108.9049782021,+0700,ok
+33.01.12.2010,Babakan,Jawa Tengah,Cilacap,Karangpucung,Babakan,-7.3381162561,108.8989058614,+0700,ok
+33.01.12.2011,Ciruyung,Jawa Tengah,Cilacap,Karangpucung,Ciruyung,-7.3517464598,108.9323591678,+0700,ok
+33.01.12.2012,Pamulihan,Jawa Tengah,Cilacap,Karangpucung,Pamulihan,-7.32692348,108.931211839,+0700,ok
+33.01.12.2013,Tayem Timur,Jawa Tengah,Cilacap,Karangpucung,Tayem Timur,-7.4098266998,108.923272629,+0700,ok
+33.01.12.2014,Sidamulya,Jawa Tengah,Cilacap,Karangpucung,Sidamulya,-7.3452921149,108.9577537522,+0700,ok
+33.01.13.2001,Panimbang,Jawa Tengah,Cilacap,Cimanggu,Panimbang,-7.3616701894,108.8697404015,+0700,ok
+33.01.13.2002,Bantarmangu,Jawa Tengah,Cilacap,Cimanggu,Bantarmangu,-7.3409392181,108.857749332,+0700,ok
+33.01.13.2003,Bantarpanjang,Jawa Tengah,Cilacap,Cimanggu,Bantarpanjang,-7.3619206861,108.8507750236,+0700,ok
+33.01.13.2004,Cimanggu,Jawa Tengah,Cilacap,Cimanggu,Cimanggu,-7.3504019814,108.8304481006,+0700,ok
+33.01.13.2005,Cilempuyang,Jawa Tengah,Cilacap,Cimanggu,Cilempuyang,-7.3293174308,108.8282561085,+0700,ok
+33.01.13.2006,Negarajati,Jawa Tengah,Cilacap,Cimanggu,Negarajati,-7.2942982817,108.8284617927,+0700,ok
+33.01.13.2007,Cisalak,Jawa Tengah,Cilacap,Cimanggu,Cisalak,-7.2994492343,108.8539879606,+0700,ok
+33.01.13.2008,Cibalung,Jawa Tengah,Cilacap,Cimanggu,Cibalung,-7.3158801584,108.8719152168,+0700,ok
+33.01.13.2009,Karangsari,Jawa Tengah,Cilacap,Cimanggu,Karangsari,-7.3038912464,108.9003972702,+0700,ok
+33.01.13.2010,Kutabima,Jawa Tengah,Cilacap,Cimanggu,Kutabima,-7.276392679,108.8661673869,+0700,ok
+33.01.13.2011,Pesahangan,Jawa Tengah,Cilacap,Cimanggu,Pesahangan,-7.2554383897,108.8344168582,+0700,ok
+33.01.13.2012,Cijati,Jawa Tengah,Cilacap,Cimanggu,Cijati,-7.2580483102,108.8105248291,+0700,ok
+33.01.13.2013,Karangreja,Jawa Tengah,Cilacap,Cimanggu,Karangreja,-7.3537447626,108.7913420951,+0700,ok
+33.01.13.2014,Rejodadi,Jawa Tengah,Cilacap,Cimanggu,Rejodadi,-7.318658721,108.8058805394,+0700,ok
+33.01.13.2015,Mandala,Jawa Tengah,Cilacap,Cimanggu,Mandala,-7.3468343135,108.8812248307,+0700,ok
+33.01.14.2001,Pahonjean,Jawa Tengah,Cilacap,Majenang,Pahonjean,-7.331341723,108.7423293631,+0700,ok
+33.01.14.2002,Salebu,Jawa Tengah,Cilacap,Majenang,Salebu,-7.2804957461,108.7219838962,+0700,ok
+33.01.14.2003,Cibeunying,Jawa Tengah,Cilacap,Majenang,Cibeunying,-7.2671714851,108.7345397449,+0700,ok
+33.01.14.2004,Jenang,Jawa Tengah,Cilacap,Majenang,Jenang,-7.2981310995,108.7562071287,+0700,ok
+33.01.14.2005,Sindangsari,Jawa Tengah,Cilacap,Majenang,Sindangsari,-7.2986296013,108.770378468,+0700,ok
+33.01.14.2006,Cilopadang,Jawa Tengah,Cilacap,Majenang,Cilopadang,-7.3007877851,108.7935541136,+0700,ok
+33.01.14.2007,Bener,Jawa Tengah,Cilacap,Majenang,Bener,-7.2670787282,108.7617903111,+0700,ok
+33.01.14.2008,Boja,Jawa Tengah,Cilacap,Majenang,Boja,-7.2590510355,108.7851541264,+0700,ok
+33.01.14.2009,Ujungbarang,Jawa Tengah,Cilacap,Majenang,Ujungbarang,-7.2212745786,108.7981697888,+0700,ok
+33.01.14.2010,Pengadegan,Jawa Tengah,Cilacap,Majenang,Pengadegan,-7.234401593,108.7693008341,+0700,ok
+33.01.14.2011,Sepatnunggal,Jawa Tengah,Cilacap,Majenang,Sepatnunggal,-7.2458753861,108.740902528,+0700,ok
+33.01.14.2012,Sadabumi,Jawa Tengah,Cilacap,Majenang,Sadabumi,-7.2115840543,108.7501736586,+0700,ok
+33.01.14.2013,Sadahayu,Jawa Tengah,Cilacap,Majenang,Sadahayu,-7.2025295902,108.7147099243,+0700,ok
+33.01.14.2014,Mulyadadi,Jawa Tengah,Cilacap,Majenang,Mulyadadi,-7.3331007761,108.7553698649,+0700,ok
+33.01.14.2015,Padangjaya,Jawa Tengah,Cilacap,Majenang,Padangjaya,-7.3033926598,108.7802915004,+0700,ok
+33.01.14.2016,Padangsari,Jawa Tengah,Cilacap,Majenang,Padangsari,-7.3318255177,108.7792590982,+0700,ok
+33.01.14.2017,Mulyasari,Jawa Tengah,Cilacap,Majenang,Mulyasari,-7.3246780251,108.7636526464,+0700,ok
+33.01.15.2001,Tarisi,Jawa Tengah,Cilacap,Wanareja,Tarisi,-7.3898904506,108.7016624668,+0700,ok
+33.01.15.2002,Bantar,Jawa Tengah,Cilacap,Wanareja,Bantar,-7.3657911228,108.7130569228,+0700,ok
+33.01.15.2003,Wanareja,Jawa Tengah,Cilacap,Wanareja,Wanareja,-7.3298965912,108.6783756318,+0700,ok
+33.01.15.2004,Limbangan,Jawa Tengah,Cilacap,Wanareja,Limbangan,-7.280792824,108.7010005175,+0700,ok
+33.01.15.2005,Malabar,Jawa Tengah,Cilacap,Wanareja,Malabar,-7.2944661379,108.6862318772,+0700,ok
+33.01.15.2006,Majingklak,Jawa Tengah,Cilacap,Wanareja,Majingklak,-7.2838643272,108.6621541725,+0700,ok
+33.01.15.2007,Madura,Jawa Tengah,Cilacap,Wanareja,Madura,-7.332884056,108.6318841585,+0700,ok
+33.01.15.2008,Tambaksari,Jawa Tengah,Cilacap,Wanareja,Tambaksari,-7.2651464503,108.6424905242,+0700,ok
+33.01.15.2010,Cigintung,Jawa Tengah,Cilacap,Wanareja,Cigintung,-7.2320013167,108.6965074067,+0700,ok
+33.01.15.2011,Jambu,Jawa Tengah,Cilacap,Wanareja,Jambu,-7.2001482793,108.6870993472,+0700,ok
+33.01.15.2012,Adimulya,Jawa Tengah,Cilacap,Wanareja,Adimulya,-7.3420022579,108.7122809605,+0700,ok
+33.01.15.2013,Sidamulya,Jawa Tengah,Cilacap,Wanareja,Sidamulya,-7.3559488723,108.6817553813,+0700,ok
+33.01.15.2014,Cilongkrang,Jawa Tengah,Cilacap,Wanareja,Cilongkrang,-7.4142233259,108.7178773399,+0700,ok
+33.01.15.2015,Purwasari,Jawa Tengah,Cilacap,Wanareja,Purwasari,-7.439985497,108.7324146968,+0700,ok
+33.01.15.2016,Madusari,Jawa Tengah,Cilacap,Wanareja,Madusari,-7.3118606208,108.637754349,+0700,ok
+33.01.16.2001,Panulisan,Jawa Tengah,Cilacap,Dayeuhluhur,Panulisan,-7.3190425094,108.5791590665,+0700,ok
+33.01.16.2002,Matenggeng,Jawa Tengah,Cilacap,Dayeuhluhur,Matenggeng,-7.2708996182,108.5840814327,+0700,ok
+33.01.16.2003,Ciwalen,Jawa Tengah,Cilacap,Dayeuhluhur,Ciwalen,-7.2851901939,108.620564776,+0700,ok
+33.01.16.2004,Dayeuhluhur,Jawa Tengah,Cilacap,Dayeuhluhur,Dayeuhluhur,-7.2544822285,108.6126900901,+0700,ok
+33.01.16.2005,Hanum,Jawa Tengah,Cilacap,Dayeuhluhur,Hanum,-7.2369392418,108.631475349,+0700,ok
+33.01.16.2006,Datar,Jawa Tengah,Cilacap,Dayeuhluhur,Datar,-7.2111216813,108.632338772,+0700,ok
+33.01.16.2007,Bingkeng,Jawa Tengah,Cilacap,Dayeuhluhur,Bingkeng,-7.2388007429,108.591435732,+0700,ok
+33.01.16.2008,Bolang,Jawa Tengah,Cilacap,Dayeuhluhur,Bolang,-7.2027951302,108.5864585189,+0700,ok
+33.01.16.2009,Kutaagung,Jawa Tengah,Cilacap,Dayeuhluhur,Kutaagung,-7.1780998151,108.5768565685,+0700,ok
+33.01.16.2010,Cijeruk,Jawa Tengah,Cilacap,Dayeuhluhur,Cijeruk,-7.1736861788,108.6051314224,+0700,ok
+33.01.16.2011,Cilumping,Jawa Tengah,Cilacap,Dayeuhluhur,Cilumping,-7.1668888775,108.6356027023,+0700,ok
+33.01.16.2012,Sumpinghayu,Jawa Tengah,Cilacap,Dayeuhluhur,Sumpinghayu,-7.1795226201,108.6655257545,+0700,ok
+33.01.16.2013,Panulisan Barat,Jawa Tengah,Cilacap,Dayeuhluhur,Panulisan Barat,-7.301770232,108.5696419825,+0700,ok
+33.01.16.2014,Panulisan Timur,Jawa Tengah,Cilacap,Dayeuhluhur,Panulisan Timur,-7.3162534668,108.5985504423,+0700,ok
+33.01.17.2001,Karangtengah,Jawa Tengah,Cilacap,Sampang,Karangtengah,-7.5681721916,109.1851815005,+0700,ok
+33.01.17.2002,Brani,Jawa Tengah,Cilacap,Sampang,Brani,-7.5584362108,109.1769821898,+0700,ok
+33.01.17.2003,Sampang,Jawa Tengah,Cilacap,Sampang,Sampang,-7.5654406171,109.1986154699,+0700,ok
+33.01.17.2004,Sidasari,Jawa Tengah,Cilacap,Sampang,Sidasari,-7.5807056962,109.2050699601,+0700,ok
+33.01.17.2005,Paketingan,Jawa Tengah,Cilacap,Sampang,Paketingan,-7.5894618396,109.1870941235,+0700,ok
+33.01.17.2006,Ketanggung,Jawa Tengah,Cilacap,Sampang,Ketanggung,-7.5986825213,109.1948287262,+0700,ok
+33.01.17.2007,Nusajati,Jawa Tengah,Cilacap,Sampang,Nusajati,-7.5997128422,109.1990760425,+0700,ok
+33.01.17.2008,Karangjati,Jawa Tengah,Cilacap,Sampang,Karangjati,-7.5841178432,109.2228064389,+0700,ok
+33.01.17.2009,Paberasan,Jawa Tengah,Cilacap,Sampang,Paberasan,-7.5902210672,109.2338646395,+0700,ok
+33.01.17.2010,Karangasem,Jawa Tengah,Cilacap,Sampang,Karangasem,-7.5695525879,109.2123964441,+0700,ok
+33.01.18.2001,Caruy,Jawa Tengah,Cilacap,Cipari,Caruy,-7.375660724,108.8090125201,+0700,ok
+33.01.18.2002,Segaralangu,Jawa Tengah,Cilacap,Cipari,Segaralangu,-7.4371272337,108.7896184726,+0700,ok
+33.01.18.2003,Pegadingan,Jawa Tengah,Cilacap,Cipari,Pegadingan,-7.4001233888,108.7647939441,+0700,ok
+33.01.18.2004,Cisuru,Jawa Tengah,Cilacap,Cipari,Cisuru,-7.3887199941,108.7330068468,+0700,ok
+33.01.18.2005,Cipari,Jawa Tengah,Cilacap,Cipari,Cipari,-7.4323838874,108.7673065138,+0700,ok
+33.01.18.2006,Serang,Jawa Tengah,Cilacap,Cipari,Serang,-7.4561044469,108.7593405908,+0700,ok
+33.01.18.2007,Mulyadadi,Jawa Tengah,Cilacap,Cipari,Mulyadadi,-7.4281351038,108.7493297371,+0700,ok
+33.01.18.2008,Mekarsari,Jawa Tengah,Cilacap,Cipari,Mekarsari,-7.3812081189,108.7507282359,+0700,ok
+33.01.18.2009,Kutasari,Jawa Tengah,Cilacap,Cipari,Kutasari,-7.393404437,108.8111533919,+0700,ok
+33.01.18.2010,Karangreja,Jawa Tengah,Cilacap,Cipari,Karangreja,-7.4142482028,108.8038442079,+0700,ok
+33.01.18.2011,Sidasari,Jawa Tengah,Cilacap,Cipari,Sidasari,-7.3845946332,108.7782235433,+0700,ok
+33.01.19.2001,Patimuan,Jawa Tengah,Cilacap,Patimuan,Patimuan,-7.5890772951,108.7649313894,+0700,ok
+33.01.19.2002,Rawaapu,Jawa Tengah,Cilacap,Patimuan,Rawaapu,-7.6462954969,108.7815598619,+0700,ok
+33.01.19.2003,Sidamukti,Jawa Tengah,Cilacap,Patimuan,Sidamukti,-7.6151297523,108.7569723211,+0700,ok
+33.01.19.2004,Purwadadi,Jawa Tengah,Cilacap,Patimuan,Purwadadi,-7.6052914394,108.7658068207,+0700,ok
+33.01.19.2005,Cinyawang,Jawa Tengah,Cilacap,Patimuan,Cinyawang,-7.5755829479,108.769117158,+0700,ok
+33.01.19.2006,Bulupayung,Jawa Tengah,Cilacap,Patimuan,Bulupayung,-7.5921067906,108.8040012946,+0700,ok
+33.01.19.2007,Cimrutu,Jawa Tengah,Cilacap,Patimuan,Cimrutu,-7.6251741582,108.8007332598,+0700,ok
+33.01.20.2001,Binangun,Jawa Tengah,Cilacap,Bantarsari,Binangun,-7.5500516632,108.9401736721,+0700,ok
+33.01.20.2002,Bantarsari,Jawa Tengah,Cilacap,Bantarsari,Bantarsari,-7.5802439767,108.8653038494,+0700,ok
+33.01.20.2003,Cikedondong,Jawa Tengah,Cilacap,Bantarsari,Cikedondong,-7.4982511325,108.9073162257,+0700,ok
+33.01.20.2004,Kedungwadas,Jawa Tengah,Cilacap,Bantarsari,Kedungwadas,-7.479061447,108.9223382451,+0700,ok
+33.01.20.2005,Citembong,Jawa Tengah,Cilacap,Bantarsari,Citembong,-7.4855738448,108.9432562554,+0700,ok
+33.01.20.2006,Kamulyan,Jawa Tengah,Cilacap,Bantarsari,Kamulyan,-7.5197528204,108.8747370352,+0700,ok
+33.01.20.2007,Rawajaya,Jawa Tengah,Cilacap,Bantarsari,Rawajaya,-7.5818303801,108.8838018682,+0700,ok
+33.01.20.2008,Bulaksari,Jawa Tengah,Cilacap,Bantarsari,Bulaksari,-7.5285489041,108.8992846905,+0700,ok
+33.01.21.1001,Sidakaya,Jawa Tengah,Cilacap,Cilacap selatan,Sidakaya,-7.727200033,109.0154688945,+0700,ok
+33.01.21.1002,Cilacap,Jawa Tengah,Cilacap,Cilacap selatan,Cilacap,-7.7400757154,109.0169885052,+0700,ok
+33.01.21.1003,Tambakreja,Jawa Tengah,Cilacap,Cilacap selatan,Tambakreja,-7.7347855229,108.9063298722,+0700,ok
+33.01.21.1004,Tegalkamulyan,Jawa Tengah,Cilacap,Cilacap selatan,Tegalkamulyan,-7.7090939418,109.0366381311,+0700,ok
+33.01.21.1005,Tegalreja,Jawa Tengah,Cilacap,Cilacap selatan,Tegalreja,-7.7213957358,109.0073175455,+0700,ok
+33.01.22.1001,Lomanis,Jawa Tengah,Cilacap,Cilacap tengah,Lomanis,-7.6948766319,109.0033871233,+0700,ok
+33.01.22.1002,Gunungsimping,Jawa Tengah,Cilacap,Cilacap tengah,Gunungsimping,-7.7031510979,109.0267997103,+0700,ok
+33.01.22.1003,Sidanegara,Jawa Tengah,Cilacap,Cilacap tengah,Sidanegara,-7.7099599029,109.0158757506,+0700,ok
+33.01.22.1004,Donan,Jawa Tengah,Cilacap,Cilacap tengah,Donan,-7.712956638,109.0025504002,+0700,ok
+33.01.22.1005,Kutawaru,Jawa Tengah,Cilacap,Cilacap tengah,Kutawaru,-7.6832868152,108.9824432123,+0700,ok
+33.01.23.1001,Mertasinga,Jawa Tengah,Cilacap,Cilacap utara,Mertasinga,-7.6792164456,109.0591206729,+0700,ok
+33.01.23.1002,Gumilir,Jawa Tengah,Cilacap,Cilacap utara,Gumilir,-7.6860712202,109.0462627056,+0700,ok
+33.01.23.1003,Karangtalun,Jawa Tengah,Cilacap,Cilacap utara,Karangtalun,-7.6750412445,109.0200835443,+0700,ok
+33.01.23.1004,Tritih Kulon,Jawa Tengah,Cilacap,Cilacap utara,Tritih kulon,-7.65917783,109.0273613744,+0700,ok
+33.01.23.1005,Kebonmanis,Jawa Tengah,Cilacap,Cilacap utara,Kebonmanis,-7.693969985,109.0358042063,+0700,ok
+33.01.24.2001,Ujunggagak,Jawa Tengah,Cilacap,Kampung laut,Ujunggagak,-7.6385107669,108.827884793,+0700,ok
+33.01.24.2002,Ujungalang,Jawa Tengah,Cilacap,Kampung laut,Ujungalang,-7.695744876,108.9028738718,+0700,ok
+33.01.24.2003,Panikel,Jawa Tengah,Cilacap,Kampung laut,Panikel,-7.6389209374,108.8666217263,+0700,ok
+33.01.24.2004,Klaces,Jawa Tengah,Cilacap,Kampung laut,Klaces,-7.6873209428,108.8304615531,+0700,ok
